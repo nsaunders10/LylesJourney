@@ -1,0 +1,5336 @@
+fileFormatVersion: 2
+guid: 5a2563a522b362341a045deb469f8208
+timeCreated: 1480797844
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: -12V
+    100002: -5V
+    100004: 12V
+    100006: 3V3
+    100008: 5V
+    100010: aekreup main
+    100012: aekreup main01
+    100014: aekreup main02
+    100016: aekreup main03
+    100018: aekreup main04
+    100020: as
+    100022: as 1
+    100024: back plate
+    100026: besi
+    100028: besi 1
+    100030: besi kern
+    100032: besi kern 1
+    100034: black tr
+    100036: black tr01
+    100038: body
+    100040: body 1
+    100042: body 2
+    100044: body C
+    100046: body C 1
+    100048: body01
+    100050: body01 1
+    100052: body01 2
+    100054: body02
+    100056: body03
+    100058: body04
+    100060: body05
+    100062: body06
+    100064: body07
+    100066: bolongan back
+    100068: box atas
+    100070: Box01
+    100072: Box01 1
+    100074: Box01 10
+    100076: Box01 11
+    100078: Box01 12
+    100080: Box01 2
+    100082: Box01 3
+    100084: Box01 4
+    100086: Box01 5
+    100088: Box01 6
+    100090: Box01 7
+    100092: Box01 8
+    100094: Box01 9
+    100096: Box02
+    100098: Box02 1
+    100100: Box02 2
+    100102: Box02 3
+    100104: Box02 4
+    100106: Box02 5
+    100108: Box02 6
+    100110: Box02 7
+    100112: Box03
+    100114: Box03 1
+    100116: Box03 2
+    100118: Box03 3
+    100120: Box03 4
+    100122: Box03 5
+    100124: Box04
+    100126: Box04 1
+    100128: Box04 2
+    100130: Box04 3
+    100132: Box04 4
+    100134: Box05
+    100136: Box05 1
+    100138: Box05 2
+    100140: Box05 3
+    100142: Box05 4
+    100144: Box06
+    100146: Box06 1
+    100148: Box06 2
+    100150: Box06 3
+    100152: Box06 4
+    100154: Box07
+    100156: Box07 1
+    100158: Box07 2
+    100160: Box07 3
+    100162: Box08
+    100164: Box08 1
+    100166: Box08 2
+    100168: Box09
+    100170: Box09 1
+    100172: Box09 2
+    100174: Box10
+    100176: Box10 1
+    100178: Box10 2
+    100180: Box11
+    100182: Box11 1
+    100184: Box11 2
+    100186: Box12
+    100188: Box13
+    100190: Box13 1
+    100192: Box14
+    100194: Box14 1
+    100196: Box15
+    100198: Box16
+    100200: Box16 1
+    100202: Box17
+    100204: Box17 1
+    100206: Box18
+    100208: Box18 1
+    100210: Box19
+    100212: Box19 1
+    100214: Box20
+    100216: Box20 1
+    100218: Box21
+    100220: Box21 1
+    100222: Box22
+    100224: Box22 1
+    100226: Box23
+    100228: Box23 1
+    100230: Box23 2
+    100232: Box24
+    100234: Box24 1
+    100236: Box24 2
+    100238: Box25
+    100240: Box26
+    100242: Box27
+    100244: Box28
+    100246: Box29
+    100248: Box30
+    100250: Box31
+    100252: Box32
+    100254: Box33
+    100256: Box34
+    100258: Box35
+    100260: Box36
+    100262: Box37
+    100264: Box38
+    100266: Box39
+    100268: Box40
+    100270: Box41
+    100272: Box42
+    100274: Box43
+    100276: Box44
+    100278: Box45
+    100280: Box46
+    100282: Box47
+    100284: Box48
+    100286: Box49
+    100288: Box50
+    100290: Box51
+    100292: Box52
+    100294: Box53
+    100296: Box54
+    100298: Box55
+    100300: Box56
+    100302: Box57
+    100304: Box58
+    100306: Box59
+    100308: Box60
+    100310: Box61
+    100312: Box62
+    100314: Box63
+    100316: Box65
+    100318: Box67
+    100320: Box68
+    100322: Box69
+    100324: Box70
+    100326: Box71
+    100328: Box72
+    100330: Box73
+    100332: Box74
+    100334: Box75
+    100336: Box76
+    100338: Box77
+    100340: Box78
+    100342: Box79
+    100344: Box80
+    100346: c 1 50
+    100348: c 1 51
+    100350: c 1 52
+    100352: c 1 53
+    100354: c 1 54
+    100356: c 1 55
+    100358: c 1 56
+    100360: c 1 57
+    100362: c 1 58
+    100364: c 1 59
+    100366: c 1000 18
+    100368: c 1000 19
+    100370: c 1000 20
+    100372: c 1000 21
+    100374: c 1000 22
+    100376: c 1000 23
+    100378: c 1000 24
+    100380: c 1000 25
+    100382: c 1000 26
+    100384: c 1000 27
+    100386: c 330 200
+    100388: c 330 201
+    100390: c keramik no food
+    100392: c keramik no food01
+    100394: c keramik no food02
+    100396: c keramik no food03
+    100398: c keramik no food04
+    100400: c keramik no food05
+    100402: c keramik no food06
+    100404: c keramik no food07
+    100406: c keramik no food08
+    100408: c keramik no food09
+    100410: c keramik no food10
+    100412: c keramik no food11
+    100414: c keramik no food12
+    100416: c mika ac merah
+    100418: c mika ac merah01
+    100420: c perata ac blue
+    100422: c perata ac blue01
+    100424: c perata ac blue02
+    100426: c perata ac blue03
+    100428: c perata ac blue04
+    100430: c-ac kuning no food
+    100432: c-ac kuning no food01
+    100434: cap
+    100436: cap 1
+    100438: cap 2
+    100440: cap 3
+    100442: cap 4
+    100444: cap01
+    100446: cap02
+    100448: cap03
+    100450: cap04
+    100452: cap05
+    100454: cap06
+    100456: cap07
+    100458: cap08
+    100460: cap09
+    100462: cap10
+    100464: cap11
+    100466: cap12
+    100468: cap13
+    100470: cap14
+    100472: cap15
+    100474: cap16
+    100476: cap17
+    100478: cap18
+    100480: cap19
+    100482: case
+    100484: case 1
+    100486: ChamferBox01
+    100488: ChamferBox01 1
+    100490: ChamferBox01 2
+    100492: ChamferBox01 3
+    100494: ChamferBox01 4
+    100496: ChamferBox02
+    100498: ChamferBox02 1
+    100500: ChamferBox03
+    100502: ChamferBox04
+    100504: ChamferBox05
+    100506: ChamferBox06
+    100508: ChamferBox07
+    100510: ChamferBox08
+    100512: ChamferBox09
+    100514: ChamferBox10
+    100516: ChamferCyl01
+    100518: ChamferCyl01 1
+    100520: ChamferCyl01 2
+    100522: ChamferCyl01 3
+    100524: ChamferCyl01 4
+    100526: ChamferCyl01 5
+    100528: ChamferCyl02
+    100530: ChamferCyl03
+    100532: ChamferCyl04
+    100534: ChamferCyl05
+    100536: ChamferCyl06
+    100538: ChamferCyl07
+    100540: ChamferCyl08
+    100542: ChamferCyl09
+    100544: ChamferCyl10
+    100546: ChamferCyl11
+    100548: ChamferCyl12
+    100550: ChamferCyl13
+    100552: ChamferCyl14
+    100554: ChamferCyl15
+    100556: ChamferCyl16
+    100558: ChamferCyl17
+    100560: ChamferCyl18
+    100562: ChamferCyl19
+    100564: ChamferCyl20
+    100566: ChamferCyl21
+    100568: ChamferCyl22
+    100570: ChamferCyl23
+    100572: ChamferCyl24
+    100574: ChamferCyl25
+    100576: ChamferCyl26
+    100578: ChamferCyl27
+    100580: ChamferCyl28
+    100582: ChamferCyl29
+    100584: ChamferCyl30
+    100586: ChamferCyl31
+    100588: ChamferCyl32
+    100590: Circle01
+    100592: coil big
+    100594: coil big01
+    100596: crazy jumper
+    100598: crazy jumper01
+    100600: crazy jumper02
+    100602: crazy jumper03
+    100604: crazy jumper04
+    100606: crazy jumper05
+    100608: crazy jumper06
+    100610: crazy jumper07
+    100612: crazy jumper08
+    100614: crazy jumper09
+    100616: crazy jumper10
+    100618: crazy jumper11
+    100620: crazy jumper12
+    100622: crazy jumper13
+    100624: crazy jumper14
+    100626: crazy jumper15
+    100628: crazy jumper16
+    100630: crazy jumper17
+    100632: crazy jumper18
+    100634: crazy jumper20
+    100636: crazy jumper21
+    100638: Cylinder01
+    100640: Cylinder01 1
+    100642: Cylinder01 10
+    100644: Cylinder01 11
+    100646: Cylinder01 12
+    100648: Cylinder01 13
+    100650: Cylinder01 14
+    100652: Cylinder01 15
+    100654: Cylinder01 16
+    100656: Cylinder01 17
+    100658: Cylinder01 2
+    100660: Cylinder01 3
+    100662: Cylinder01 4
+    100664: Cylinder01 5
+    100666: Cylinder01 6
+    100668: Cylinder01 7
+    100670: Cylinder01 8
+    100672: Cylinder01 9
+    100674: Cylinder02
+    100676: Cylinder02 1
+    100678: Cylinder02 2
+    100680: Cylinder02 3
+    100682: Cylinder02 4
+    100684: Cylinder02 5
+    100686: Cylinder02 6
+    100688: Cylinder02 7
+    100690: Cylinder03
+    100692: Cylinder03 1
+    100694: Cylinder04
+    100696: Cylinder04 1
+    100698: Cylinder04 2
+    100700: Cylinder05
+    100702: Cylinder05 1
+    100704: Cylinder05 2
+    100706: Cylinder05 3
+    100708: Cylinder05 4
+    100710: Cylinder05 5
+    100712: Cylinder05 6
+    100714: Cylinder06
+    100716: Cylinder06 1
+    100718: Cylinder06 2
+    100720: Cylinder06 3
+    100722: Cylinder06 4
+    100724: Cylinder06 5
+    100726: Cylinder07
+    100728: Cylinder07 1
+    100730: Cylinder08
+    100732: Cylinder08 1
+    100734: Cylinder08 2
+    100736: Cylinder09
+    100738: Cylinder09 1
+    100740: Cylinder09 2
+    100742: Cylinder10
+    100744: Cylinder10 1
+    100746: Cylinder10 2
+    100748: Cylinder100
+    100750: Cylinder101
+    100752: Cylinder102
+    100754: Cylinder103
+    100756: Cylinder104
+    100758: Cylinder105
+    100760: Cylinder106
+    100762: Cylinder107
+    100764: Cylinder108
+    100766: Cylinder109
+    100768: Cylinder11
+    100770: Cylinder11 1
+    100772: Cylinder110
+    100774: Cylinder111
+    100776: Cylinder112
+    100778: Cylinder113
+    100780: Cylinder114
+    100782: Cylinder115
+    100784: Cylinder116
+    100786: Cylinder117
+    100788: Cylinder118
+    100790: Cylinder119
+    100792: Cylinder12
+    100794: Cylinder120
+    100796: Cylinder121
+    100798: Cylinder122
+    100800: Cylinder123
+    100802: Cylinder124
+    100804: Cylinder125
+    100806: Cylinder126
+    100808: Cylinder127
+    100810: Cylinder128
+    100812: Cylinder129
+    100814: Cylinder13
+    100816: Cylinder13 1
+    100818: Cylinder13 2
+    100820: Cylinder130
+    100822: Cylinder131
+    100824: Cylinder132
+    100826: Cylinder133
+    100828: Cylinder134
+    100830: Cylinder135
+    100832: Cylinder136
+    100834: Cylinder137
+    100836: Cylinder138
+    100838: Cylinder139
+    100840: Cylinder14
+    100842: Cylinder14 1
+    100844: Cylinder14 2
+    100846: Cylinder140
+    100848: Cylinder141
+    100850: Cylinder142
+    100852: Cylinder143
+    100854: Cylinder144
+    100856: Cylinder145
+    100858: Cylinder146
+    100860: Cylinder147
+    100862: Cylinder148
+    100864: Cylinder149
+    100866: Cylinder15
+    100868: Cylinder15 1
+    100870: Cylinder15 2
+    100872: Cylinder150
+    100874: Cylinder151
+    100876: Cylinder152
+    100878: Cylinder153
+    100880: Cylinder154
+    100882: Cylinder155
+    100884: Cylinder156
+    100886: Cylinder157
+    100888: Cylinder158
+    100890: Cylinder159
+    100892: Cylinder16
+    100894: Cylinder16 1
+    100896: Cylinder16 2
+    100898: Cylinder160
+    100900: Cylinder161
+    100902: Cylinder162
+    100904: Cylinder163
+    100906: Cylinder164
+    100908: Cylinder165
+    100910: Cylinder166
+    100912: Cylinder167
+    100914: Cylinder168
+    100916: Cylinder169
+    100918: Cylinder17
+    100920: Cylinder17 1
+    100922: Cylinder170
+    100924: Cylinder171
+    100926: Cylinder172
+    100928: Cylinder173
+    100930: Cylinder174
+    100932: Cylinder175
+    100934: Cylinder18
+    100936: Cylinder18 1
+    100938: Cylinder18 2
+    100940: Cylinder19
+    100942: Cylinder19 1
+    100944: Cylinder19 2
+    100946: Cylinder20
+    100948: Cylinder21
+    100950: Cylinder22
+    100952: Cylinder23
+    100954: Cylinder24
+    100956: Cylinder25
+    100958: Cylinder26
+    100960: Cylinder27
+    100962: Cylinder28
+    100964: Cylinder29
+    100966: Cylinder30
+    100968: Cylinder31
+    100970: Cylinder32
+    100972: Cylinder33
+    100974: Cylinder34
+    100976: Cylinder35
+    100978: Cylinder36
+    100980: Cylinder37
+    100982: Cylinder38
+    100984: Cylinder39
+    100986: Cylinder40
+    100988: Cylinder41
+    100990: Cylinder42
+    100992: Cylinder43
+    100994: Cylinder44
+    100996: Cylinder45
+    100998: Cylinder46
+    101000: Cylinder47
+    101002: Cylinder48
+    101004: Cylinder49
+    101006: Cylinder50
+    101008: Cylinder51
+    101010: Cylinder52
+    101012: Cylinder53
+    101014: Cylinder54
+    101016: Cylinder55
+    101018: Cylinder56
+    101020: Cylinder57
+    101022: Cylinder58
+    101024: Cylinder59
+    101026: Cylinder60
+    101028: Cylinder61
+    101030: Cylinder62
+    101032: Cylinder63
+    101034: Cylinder64
+    101036: Cylinder65
+    101038: Cylinder66
+    101040: Cylinder67
+    101042: Cylinder68
+    101044: Cylinder69
+    101046: Cylinder70
+    101048: Cylinder71
+    101050: Cylinder72
+    101052: Cylinder73
+    101054: Cylinder74
+    101056: Cylinder75
+    101058: Cylinder76
+    101060: Cylinder77
+    101062: Cylinder78
+    101064: Cylinder79
+    101066: Cylinder80
+    101068: Cylinder81
+    101070: Cylinder82
+    101072: Cylinder83
+    101074: Cylinder84
+    101076: Cylinder85
+    101078: Cylinder86
+    101080: Cylinder87
+    101082: Cylinder88
+    101084: Cylinder89
+    101086: Cylinder90
+    101088: Cylinder91
+    101090: Cylinder92
+    101092: Cylinder93
+    101094: Cylinder94
+    101096: Cylinder95
+    101098: Cylinder96
+    101100: Cylinder97
+    101102: Cylinder98
+    101104: Cylinder99
+    101106: d-kaca dabuk
+    101108: d-kaca dabuk01
+    101110: d-kaca dabuk02
+    101112: d-kaca dabuk03
+    101114: d-kaca dabuk04
+    101116: d-kaca dabuk05
+    101118: d-kaca dabuk06
+    101120: d-kaca dabuk07
+    101122: diode dabuk
+    101124: diode dabuk01
+    101126: diode dabuk02
+    101128: diode dabuk03
+    101130: diode dabuk04
+    101132: diode dabuk05
+    101134: diode dabuk06
+    101136: diode dabuk07
+    101138: diode dabuk08
+    101140: diode dabuk09
+    101142: diode dabuk10
+    101144: diode jadi
+    101146: diode jadi01
+    101148: diode jadi02
+    101150: diode jadi03
+    101152: diode jadi04
+    101154: dudukan
+    101156: fan
+    101158: fan 1
+    101160: fan cable
+    101162: fcs 9014
+    101164: fcs 9015
+    101166: fcs 9016
+    101168: fcs 9017
+    101170: fcs 9018
+    101172: fcs 9019
+    101174: filamen
+    101176: fuseku
+    101178: GND
+    101180: gnd more
+    101182: gnd more2
+    101184: heatsink 1
+    101186: heatsink 2
+    101188: ic 2 food
+    101190: ic 2005 z
+    101192: IC regulator
+    101194: IC regulator01
+    101196: IC regulator02
+    101198: IC regulator03
+    101200: IC regulator04
+    101202: isolator
+    101204: isolator01
+    101206: isolator02
+    101208: isolator03
+    101210: isolator04
+    101212: isolator05
+    101214: isolator06
+    101216: jack ac
+    101218: jack-b
+    101220: kabel -12V
+    101222: kabel 12V
+    101224: kabel 12V-1
+    101226: kabel 12V-2
+    101228: kabel 12V-3
+    101230: kabel 12V-4
+    101232: kabel 12V-5
+    101234: kabel 12V-6
+    101236: kabel 3v3
+    101238: kabel 3v3-1
+    101240: kabel 3v3-2
+    101242: kabel 3v3-3
+    101244: kabel 3v3-4
+    101246: kabel 3v3-5
+    101248: kabel 5V
+    101250: kabel ac ground
+    101252: kabel ac ground 1
+    101254: kabel ac in 1
+    101256: kabel ac in 2
+    101258: kabel fan +
+    101260: kabel fan -
+    101262: kabel ground
+    101264: kaca
+    101266: kaki dabuk
+    101268: kaki dabuk01
+    101270: kaki dabuk02
+    101272: kaki dabuk03
+    101274: kaki dabuk04
+    101276: kaki dabuk05
+    101278: kaki dabuk06
+    101280: kaki dabuk07
+    101282: kaki dabuk08
+    101284: kaki dabuk09
+    101286: kaki dabuk10
+    101288: kaki dabuk11
+    101290: kaki dabuk12
+    101292: kaki dabuk13
+    101294: kaki dabuk15
+    101296: kaki dabuk16
+    101298: kaki dabuk17
+    101300: kaki dabuk18
+    101302: kaki dabuk19
+    101304: kaki dabuk20
+    101306: kaki dabuk21
+    101308: kaki dabuk22
+    101310: kaki dabuk23
+    101312: kaki dabuk24
+    101314: kaki dabuk25
+    101316: kaki dabuk26
+    101318: kaki dabuk27
+    101320: kaki dabuk28
+    101322: kaki dabuk29
+    101324: kaki dabuk30
+    101326: kaki dabuk31
+    101328: kaki dabuk32
+    101330: kaki lengkung
+    101332: kaki lengkung01
+    101334: kaki lengkung02
+    101336: kaki lengkung03
+    101338: kaki lengkung04
+    101340: kaki pendek
+    101342: kaki pendek 1
+    101344: kaki pendek01
+    101346: kaki pendek01 1
+    101348: kaki tekuk04
+    101350: kaki tekuk04 1
+    101352: kaki tekuk1
+    101354: kaki tekuk1 1
+    101356: kipasnya
+    101358: kipasnya 1
+    101360: kumparan
+    101362: kumparan 1
+    101364: kumparan ac
+    101366: kumparan ac01
+    101368: kumparan filter
+    101370: kumparan filter01
+    101372: kumparan filter02
+    101374: kumparan from mb
+    101376: L-Ext01
+    101378: L-Ext02
+    101380: L-Ext03
+    101382: L-Ext04
+    101384: Line01
+    101386: Line02
+    101388: Line03
+    101390: Line04
+    101392: Line05
+    101394: Line06
+    101396: Line07
+    101398: Line08
+    101400: Line09
+    101402: Line10
+    101404: Line11
+    101406: Line12
+    101408: lines
+    101410: link cable
+    101412: link cable01
+    101414: link cable02
+    101416: link cable05
+    101418: link cable07
+    101420: Loft01
+    101422: Loft02
+    101424: Loft03
+    101426: Loft04
+    101428: Loft05
+    101430: Loft06
+    101432: Loft06 1
+    101434: Loft07
+    101436: Loft07 1
+    101438: Loft08
+    101440: Loft08 1
+    101442: Loft09
+    101444: Loft09 1
+    101446: Loft10
+    101448: Loft11
+    101450: Loft12
+    101452: Loft13
+    101454: Loft14
+    101456: Loft14 1
+    101458: Loft15
+    101460: Loft15 1
+    101462: Loft16
+    101464: Loft16 1
+    101466: Loft17
+    101468: Loft17 1
+    101470: Loft18
+    101472: Loft19
+    101474: Loft19 1
+    101476: Loft20
+    101478: Loft20 1
+    101480: Loft21
+    101482: Loft22
+    101484: Loft22 1
+    101486: Loft23
+    101488: Loft24
+    101490: Loft25
+    101492: Loft25 1
+    101494: Loft26
+    101496: Loft26 1
+    101498: Loft27
+    101500: Loft27 1
+    101502: Loft28
+    101504: Loft29
+    101506: Loft30
+    101508: Loft31
+    101510: Loft32
+    101512: Loft33
+    101514: Loft34
+    101516: Loft35
+    101518: Loft36
+    101520: Loft37
+    101522: Loft38
+    101524: Loft39
+    101526: Loft40
+    101528: Loft41
+    101530: Loft42
+    101532: Loft43
+    101534: Loft44
+    101536: Loft44 1
+    101538: Loft45
+    101540: Loft45 1
+    101542: Loft46
+    101544: Loft46 1
+    101546: Loft47
+    101548: Loft47 1
+    101550: Loft48
+    101552: Loft48 1
+    101554: Loft49
+    101556: Loft50
+    101558: Loft51
+    101560: Loft52
+    101562: Loft53
+    101564: Loft54
+    101566: Loft55
+    101568: Loft56
+    101570: Loft57
+    101572: Loft58
+    101574: Loft59
+    101576: Loft60
+    101578: Loft61
+    101580: Loft62
+    101582: Loft63
+    101584: Loft64
+    101586: Loft65
+    101588: Loft66
+    101590: Loft67
+    101592: Loft68
+    101594: Loft69
+    101596: Loft70
+    101598: Loft71
+    101600: Loft72
+    101602: Loft73
+    101604: Loft73 1
+    101606: Loft74
+    101608: Loft74 1
+    101610: Loft75
+    101612: Loft75 1
+    101614: Loft76
+    101616: Loft76 1
+    101618: Loft77
+    101620: Loft78
+    101622: Loft79
+    101624: magnet
+    101626: magnet 1
+    101628: main pcb
+    101630: main plug
+    101632: main plug02
+    101634: Object01
+    101636: Object01 1
+    101638: Object01 2
+    101640: Object01 3
+    101642: Object01 4
+    101644: Object02
+    101646: Object04
+    101648: Object05
+    101650: Object06
+    101652: Object07
+    101654: Object08
+    101656: Object09
+    101658: Object10
+    101660: Object11
+    101662: Object12
+    101664: Object13
+    101666: Object14
+    101668: Object15
+    101670: Object16
+    101672: Object17
+    101674: Object18
+    101676: Object19
+    101678: Object20
+    101680: Object21
+    101682: Object23
+    101684: Object24
+    101686: Object25
+    101688: Object26
+    101690: Object27
+    101692: Object28
+    101694: Object29
+    101696: Object30
+    101698: Object31
+    101700: Object32
+    101702: Object33
+    101704: Object34
+    101706: Object35
+    101708: Object36
+    101710: Object37
+    101712: Object38
+    101714: Object39
+    101716: Object40
+    101718: Object41
+    101720: Object42
+    101722: Object43
+    101724: Object44
+    101726: Object45
+    101728: Object46
+    101730: Object47
+    101732: Object48
+    101734: Object49
+    101736: Object50
+    101738: Object51
+    101740: Object52
+    101742: Object53
+    101744: Object54
+    101746: Object55
+    101748: Object56
+    101750: Object57
+    101752: Object58
+    101754: Object59
+    101756: Object60
+    101758: Object61
+    101760: Object62
+    101762: Object63
+    101764: Object64
+    101766: Object65
+    101768: Object66
+    101770: Object67
+    101772: Object68
+    101774: Object69
+    101776: Object70
+    101778: Object71
+    101780: Object72
+    101782: Object73
+    101784: Object74
+    101786: OilTank01
+    101788: OilTank01 1
+    101790: OilTank01 2
+    101792: OilTank02
+    101794: OilTank04
+    101796: OilTank05
+    101798: OilTank06
+    101800: OilTank07
+    101802: OilTank08
+    101804: OilTank09
+    101806: OilTank10
+    101808: OilTank11
+    101810: OilTank12
+    101812: OilTank13
+    101814: OilTank14
+    101816: OilTank15
+    101818: OilTank16
+    101820: OilTank17
+    101822: OilTank18
+    101824: OilTank19
+    101826: pcb
+    101828: pcb 1
+    101830: pcb 1 1
+    101832: pcb n components
+    101834: pcb n components 1
+    101836: pcb small
+    101838: pins
+    101840: Plane01
+    101842: Plane02
+    101844: plastik isolasi
+    101846: plastik isolasi 1
+    101848: //RootNode
+    101850: r body02
+    101852: r body02 1
+    101854: r body03
+    101856: r body03 1
+    101858: r body04
+    101860: r body04 1
+    101862: r skaki tekuk02
+    101864: r skaki tekuk02 1
+    101866: r skaki tekuk03
+    101868: r skaki tekuk03 1
+    101870: r skaki tekuk1
+    101872: r skaki tekuk1 1
+    101874: R04
+    101876: R04 1
+    101878: R1
+    101880: R1 1
+    101882: resistor biasa dabuk
+    101884: resistor biasa dabuk01
+    101886: resistor biasa dabuk02
+    101888: resistor biasa dabuk03
+    101890: resistor biasa dabuk04
+    101892: resistor biasa dabuk05
+    101894: resistor biasa dabuk06
+    101896: resistor biasa dabuk07
+    101898: resistor biasa dabuk08
+    101900: resistor biasa dabuk09
+    101902: resistor biasa dabuk10
+    101904: resistor biasa dabuk11
+    101906: resistor biasa dabuk12
+    101908: resistor biasa dabuk13
+    101910: resistor biasa dabuk15
+    101912: resistor biasa dabuk16
+    101914: resistor biasa dabuk17
+    101916: resistor biasa dabuk18
+    101918: resistor biasa dabuk19
+    101920: resistor biasa dabuk20
+    101922: resistor biasa dabuk21
+    101924: resistor biasa dabuk22
+    101926: resistor biasa dabuk23
+    101928: resistor biasa dabuk24
+    101930: resistor biasa dabuk25
+    101932: resistor biasa dabuk26
+    101934: resistor biasa dabuk27
+    101936: resistor biasa dabuk28
+    101938: resistor biasa dabuk29
+    101940: resistor biasa dabuk30
+    101942: resistor biasa dabuk31
+    101944: resistor biasa dabuk32
+    101946: resistor big stand
+    101948: resistor big stand01
+    101950: resistor big stand02
+    101952: resistor big stand03
+    101954: resistor big stand04
+    101956: resistor small dabuk
+    101958: resistor small dabuk01
+    101960: resistor small dabuk02
+    101962: resistor small dabuk03
+    101964: resistor small dabuk04
+    101966: resistor small dabuk05
+    101968: resistor small dabuk06
+    101970: resistor small dabuk07
+    101972: resistor small dabuk08
+    101974: resistor small dabuk09
+    101976: resistor small dabuk10
+    101978: resistor small dabuk11
+    101980: resistor small dabuk12
+    101982: resistor small dabuk13
+    101984: resistor small dabuk14
+    101986: resistor small dabuk15
+    101988: resistor small dabuk16
+    101990: resistor small dabuk17
+    101992: resistor small dabuk18
+    101994: resistor small dabuk19
+    101996: resistor small dabuk20
+    101998: resistor small dabuk21
+    102000: resistor small dabuk22
+    102002: resistor small dabuk23
+    102004: ring
+    102006: ring 1
+    102008: RS 01
+    102010: RS 01 1
+    102012: RS 02
+    102014: RS 02 1
+    102016: RS 03
+    102018: RS 03 1
+    102020: satai
+    102022: seal
+    102024: seal 1
+    102026: sekrup
+    102028: sekrup fan
+    102030: sekrup01
+    102032: sekrup02
+    102034: sekrup03
+    102036: sekrup04
+    102038: sekrup05
+    102040: socket a
+    102042: socket a01
+    102044: Spring01
+    102046: Spring02
+    102048: Spring03
+    102050: Text01
+    102052: Text02
+    102054: Torus01
+    102056: Torus01 1
+    102058: Torus01 2
+    102060: Torus01 3
+    102062: Torus01 4
+    102064: Torus01 5
+    102066: Torus01 6
+    102068: Torus02
+    102070: Torus02 1
+    102072: Torus03
+    102074: Torus03 1
+    102076: Torus03 2
+    102078: Torus04
+    102080: Torus04 1
+    102082: Torus04 2
+    102084: Torus05
+    102086: Torus05 1
+    102088: Torus05 2
+    102090: Torus06
+    102092: Torus07
+    102094: Torus07 1
+    102096: Torus08
+    102098: Torus08 1
+    102100: Torus08 2
+    102102: Torus09
+    102104: Torus10
+    102106: Torus100
+    102108: Torus11
+    102110: Torus12
+    102112: Torus13
+    102114: Torus14
+    102116: Torus15
+    102118: Torus16
+    102120: Torus17
+    102122: Torus18
+    102124: Torus19
+    102126: Torus20
+    102128: Torus21
+    102130: Torus22
+    102132: Torus23
+    102134: Torus24
+    102136: Torus25
+    102138: Torus26
+    102140: Torus27
+    102142: Torus28
+    102144: Torus29
+    102146: Torus30
+    102148: Torus31
+    102150: Torus32
+    102152: Torus33
+    102154: Torus34
+    102156: Torus35
+    102158: Torus36
+    102160: Torus37
+    102162: Torus38
+    102164: Torus39
+    102166: Torus40
+    102168: Torus41
+    102170: Torus42
+    102172: Torus43
+    102174: Torus44
+    102176: Torus45
+    102178: Torus46
+    102180: Torus47
+    102182: Torus48
+    102184: Torus49
+    102186: Torus50
+    102188: Torus51
+    102190: Torus52
+    102192: Torus53
+    102194: Torus54
+    102196: Torus55
+    102198: Torus56
+    102200: Torus57
+    102202: Torus58
+    102204: Torus59
+    102206: Torus60
+    102208: Torus61
+    102210: Torus62
+    102212: Torus63
+    102214: Torus64
+    102216: Torus65
+    102218: Torus66
+    102220: Torus67
+    102222: Torus68
+    102224: Torus69
+    102226: Torus70
+    102228: Torus71
+    102230: Torus72
+    102232: Torus73
+    102234: Torus74
+    102236: Torus75
+    102238: Torus76
+    102240: Torus77
+    102242: Torus78
+    102244: Torus79
+    102246: Torus80
+    102248: Torus81
+    102250: Torus82
+    102252: Torus83
+    102254: Torus84
+    102256: Torus85
+    102258: Torus86
+    102260: Torus89
+    102262: Torus90
+    102264: Torus91
+    102266: Torus92
+    102268: Torus93
+    102270: Torus94
+    102272: Torus95
+    102274: Torus96
+    102276: Torus97
+    102278: Torus98
+    102280: Torus99
+    102282: TR
+    102284: TR 1
+    102286: TR01
+    102288: TR01 1
+    102290: trafo big
+    102292: trafo small
+    102294: trafo small01
+    102296: Tube01
+    102298: Tube01 1
+    102300: Tube01 2
+    102302: Tube01 3
+    102304: Tube01 4
+    102306: Tube02
+    102308: Tube02 1
+    102310: Tube02 2
+    102312: Tube02 3
+    102314: Tube03
+    102316: Tube03 1
+    102318: Tube03 2
+    102320: Tube04
+    102322: Tube04 1
+    102324: Tube04 2
+    102326: Tube05
+    102328: Tube05 1
+    102330: Tube05 2
+    102332: Tube06
+    102334: Tube06 1
+    102336: Tube06 2
+    102338: Tube07
+    102340: Tube07 1
+    102342: Tube07 2
+    102344: Tube08
+    102346: Tube08 1
+    102348: Tube08 2
+    102350: Tube09
+    102352: Tube09 1
+    102354: Tube09 2
+    102356: Tube10
+    102358: Tube10 1
+    102360: Tube11
+    102362: Tube11 1
+    102364: Tube12
+    102366: Tube12 1
+    102368: Tube13
+    102370: Tube13 1
+    102372: Tube14
+    102374: Tube14 1
+    102376: Tube15
+    102378: Tube15 1
+    102380: Tube16
+    102382: Tube16 1
+    102384: Tube17
+    102386: Tube18
+    102388: Tube19
+    102390: Tube20
+    102392: Tube21
+    102394: Tube22
+    102396: Tube23
+    102398: Tube24
+    102400: Tube25
+    102402: Tube26
+    102404: Tube27
+    102406: Tube28
+    102408: Tube29
+    102410: Tube30
+    102412: Tube31
+    102414: Tube32
+    102416: Tube33
+    102418: Tube34
+    102420: Tube35
+    102422: Tube36
+    102424: zener dabuk
+    400000: -12V
+    400002: -5V
+    400004: 12V
+    400006: 3V3
+    400008: 5V
+    400010: aekreup main
+    400012: aekreup main01
+    400014: aekreup main02
+    400016: aekreup main03
+    400018: aekreup main04
+    400020: as
+    400022: as 1
+    400024: back plate
+    400026: besi
+    400028: besi 1
+    400030: besi kern
+    400032: besi kern 1
+    400034: black tr
+    400036: black tr01
+    400038: body
+    400040: body 1
+    400042: body 2
+    400044: body C
+    400046: body C 1
+    400048: body01
+    400050: body01 1
+    400052: body01 2
+    400054: body02
+    400056: body03
+    400058: body04
+    400060: body05
+    400062: body06
+    400064: body07
+    400066: bolongan back
+    400068: box atas
+    400070: Box01
+    400072: Box01 1
+    400074: Box01 10
+    400076: Box01 11
+    400078: Box01 12
+    400080: Box01 2
+    400082: Box01 3
+    400084: Box01 4
+    400086: Box01 5
+    400088: Box01 6
+    400090: Box01 7
+    400092: Box01 8
+    400094: Box01 9
+    400096: Box02
+    400098: Box02 1
+    400100: Box02 2
+    400102: Box02 3
+    400104: Box02 4
+    400106: Box02 5
+    400108: Box02 6
+    400110: Box02 7
+    400112: Box03
+    400114: Box03 1
+    400116: Box03 2
+    400118: Box03 3
+    400120: Box03 4
+    400122: Box03 5
+    400124: Box04
+    400126: Box04 1
+    400128: Box04 2
+    400130: Box04 3
+    400132: Box04 4
+    400134: Box05
+    400136: Box05 1
+    400138: Box05 2
+    400140: Box05 3
+    400142: Box05 4
+    400144: Box06
+    400146: Box06 1
+    400148: Box06 2
+    400150: Box06 3
+    400152: Box06 4
+    400154: Box07
+    400156: Box07 1
+    400158: Box07 2
+    400160: Box07 3
+    400162: Box08
+    400164: Box08 1
+    400166: Box08 2
+    400168: Box09
+    400170: Box09 1
+    400172: Box09 2
+    400174: Box10
+    400176: Box10 1
+    400178: Box10 2
+    400180: Box11
+    400182: Box11 1
+    400184: Box11 2
+    400186: Box12
+    400188: Box13
+    400190: Box13 1
+    400192: Box14
+    400194: Box14 1
+    400196: Box15
+    400198: Box16
+    400200: Box16 1
+    400202: Box17
+    400204: Box17 1
+    400206: Box18
+    400208: Box18 1
+    400210: Box19
+    400212: Box19 1
+    400214: Box20
+    400216: Box20 1
+    400218: Box21
+    400220: Box21 1
+    400222: Box22
+    400224: Box22 1
+    400226: Box23
+    400228: Box23 1
+    400230: Box23 2
+    400232: Box24
+    400234: Box24 1
+    400236: Box24 2
+    400238: Box25
+    400240: Box26
+    400242: Box27
+    400244: Box28
+    400246: Box29
+    400248: Box30
+    400250: Box31
+    400252: Box32
+    400254: Box33
+    400256: Box34
+    400258: Box35
+    400260: Box36
+    400262: Box37
+    400264: Box38
+    400266: Box39
+    400268: Box40
+    400270: Box41
+    400272: Box42
+    400274: Box43
+    400276: Box44
+    400278: Box45
+    400280: Box46
+    400282: Box47
+    400284: Box48
+    400286: Box49
+    400288: Box50
+    400290: Box51
+    400292: Box52
+    400294: Box53
+    400296: Box54
+    400298: Box55
+    400300: Box56
+    400302: Box57
+    400304: Box58
+    400306: Box59
+    400308: Box60
+    400310: Box61
+    400312: Box62
+    400314: Box63
+    400316: Box65
+    400318: Box67
+    400320: Box68
+    400322: Box69
+    400324: Box70
+    400326: Box71
+    400328: Box72
+    400330: Box73
+    400332: Box74
+    400334: Box75
+    400336: Box76
+    400338: Box77
+    400340: Box78
+    400342: Box79
+    400344: Box80
+    400346: c 1 50
+    400348: c 1 51
+    400350: c 1 52
+    400352: c 1 53
+    400354: c 1 54
+    400356: c 1 55
+    400358: c 1 56
+    400360: c 1 57
+    400362: c 1 58
+    400364: c 1 59
+    400366: c 1000 18
+    400368: c 1000 19
+    400370: c 1000 20
+    400372: c 1000 21
+    400374: c 1000 22
+    400376: c 1000 23
+    400378: c 1000 24
+    400380: c 1000 25
+    400382: c 1000 26
+    400384: c 1000 27
+    400386: c 330 200
+    400388: c 330 201
+    400390: c keramik no food
+    400392: c keramik no food01
+    400394: c keramik no food02
+    400396: c keramik no food03
+    400398: c keramik no food04
+    400400: c keramik no food05
+    400402: c keramik no food06
+    400404: c keramik no food07
+    400406: c keramik no food08
+    400408: c keramik no food09
+    400410: c keramik no food10
+    400412: c keramik no food11
+    400414: c keramik no food12
+    400416: c mika ac merah
+    400418: c mika ac merah01
+    400420: c perata ac blue
+    400422: c perata ac blue01
+    400424: c perata ac blue02
+    400426: c perata ac blue03
+    400428: c perata ac blue04
+    400430: c-ac kuning no food
+    400432: c-ac kuning no food01
+    400434: cap
+    400436: cap 1
+    400438: cap 2
+    400440: cap 3
+    400442: cap 4
+    400444: cap01
+    400446: cap02
+    400448: cap03
+    400450: cap04
+    400452: cap05
+    400454: cap06
+    400456: cap07
+    400458: cap08
+    400460: cap09
+    400462: cap10
+    400464: cap11
+    400466: cap12
+    400468: cap13
+    400470: cap14
+    400472: cap15
+    400474: cap16
+    400476: cap17
+    400478: cap18
+    400480: cap19
+    400482: case
+    400484: case 1
+    400486: ChamferBox01
+    400488: ChamferBox01 1
+    400490: ChamferBox01 2
+    400492: ChamferBox01 3
+    400494: ChamferBox01 4
+    400496: ChamferBox02
+    400498: ChamferBox02 1
+    400500: ChamferBox03
+    400502: ChamferBox04
+    400504: ChamferBox05
+    400506: ChamferBox06
+    400508: ChamferBox07
+    400510: ChamferBox08
+    400512: ChamferBox09
+    400514: ChamferBox10
+    400516: ChamferCyl01
+    400518: ChamferCyl01 1
+    400520: ChamferCyl01 2
+    400522: ChamferCyl01 3
+    400524: ChamferCyl01 4
+    400526: ChamferCyl01 5
+    400528: ChamferCyl02
+    400530: ChamferCyl03
+    400532: ChamferCyl04
+    400534: ChamferCyl05
+    400536: ChamferCyl06
+    400538: ChamferCyl07
+    400540: ChamferCyl08
+    400542: ChamferCyl09
+    400544: ChamferCyl10
+    400546: ChamferCyl11
+    400548: ChamferCyl12
+    400550: ChamferCyl13
+    400552: ChamferCyl14
+    400554: ChamferCyl15
+    400556: ChamferCyl16
+    400558: ChamferCyl17
+    400560: ChamferCyl18
+    400562: ChamferCyl19
+    400564: ChamferCyl20
+    400566: ChamferCyl21
+    400568: ChamferCyl22
+    400570: ChamferCyl23
+    400572: ChamferCyl24
+    400574: ChamferCyl25
+    400576: ChamferCyl26
+    400578: ChamferCyl27
+    400580: ChamferCyl28
+    400582: ChamferCyl29
+    400584: ChamferCyl30
+    400586: ChamferCyl31
+    400588: ChamferCyl32
+    400590: Circle01
+    400592: coil big
+    400594: coil big01
+    400596: crazy jumper
+    400598: crazy jumper01
+    400600: crazy jumper02
+    400602: crazy jumper03
+    400604: crazy jumper04
+    400606: crazy jumper05
+    400608: crazy jumper06
+    400610: crazy jumper07
+    400612: crazy jumper08
+    400614: crazy jumper09
+    400616: crazy jumper10
+    400618: crazy jumper11
+    400620: crazy jumper12
+    400622: crazy jumper13
+    400624: crazy jumper14
+    400626: crazy jumper15
+    400628: crazy jumper16
+    400630: crazy jumper17
+    400632: crazy jumper18
+    400634: crazy jumper20
+    400636: crazy jumper21
+    400638: Cylinder01
+    400640: Cylinder01 1
+    400642: Cylinder01 10
+    400644: Cylinder01 11
+    400646: Cylinder01 12
+    400648: Cylinder01 13
+    400650: Cylinder01 14
+    400652: Cylinder01 15
+    400654: Cylinder01 16
+    400656: Cylinder01 17
+    400658: Cylinder01 2
+    400660: Cylinder01 3
+    400662: Cylinder01 4
+    400664: Cylinder01 5
+    400666: Cylinder01 6
+    400668: Cylinder01 7
+    400670: Cylinder01 8
+    400672: Cylinder01 9
+    400674: Cylinder02
+    400676: Cylinder02 1
+    400678: Cylinder02 2
+    400680: Cylinder02 3
+    400682: Cylinder02 4
+    400684: Cylinder02 5
+    400686: Cylinder02 6
+    400688: Cylinder02 7
+    400690: Cylinder03
+    400692: Cylinder03 1
+    400694: Cylinder04
+    400696: Cylinder04 1
+    400698: Cylinder04 2
+    400700: Cylinder05
+    400702: Cylinder05 1
+    400704: Cylinder05 2
+    400706: Cylinder05 3
+    400708: Cylinder05 4
+    400710: Cylinder05 5
+    400712: Cylinder05 6
+    400714: Cylinder06
+    400716: Cylinder06 1
+    400718: Cylinder06 2
+    400720: Cylinder06 3
+    400722: Cylinder06 4
+    400724: Cylinder06 5
+    400726: Cylinder07
+    400728: Cylinder07 1
+    400730: Cylinder08
+    400732: Cylinder08 1
+    400734: Cylinder08 2
+    400736: Cylinder09
+    400738: Cylinder09 1
+    400740: Cylinder09 2
+    400742: Cylinder10
+    400744: Cylinder10 1
+    400746: Cylinder10 2
+    400748: Cylinder100
+    400750: Cylinder101
+    400752: Cylinder102
+    400754: Cylinder103
+    400756: Cylinder104
+    400758: Cylinder105
+    400760: Cylinder106
+    400762: Cylinder107
+    400764: Cylinder108
+    400766: Cylinder109
+    400768: Cylinder11
+    400770: Cylinder11 1
+    400772: Cylinder110
+    400774: Cylinder111
+    400776: Cylinder112
+    400778: Cylinder113
+    400780: Cylinder114
+    400782: Cylinder115
+    400784: Cylinder116
+    400786: Cylinder117
+    400788: Cylinder118
+    400790: Cylinder119
+    400792: Cylinder12
+    400794: Cylinder120
+    400796: Cylinder121
+    400798: Cylinder122
+    400800: Cylinder123
+    400802: Cylinder124
+    400804: Cylinder125
+    400806: Cylinder126
+    400808: Cylinder127
+    400810: Cylinder128
+    400812: Cylinder129
+    400814: Cylinder13
+    400816: Cylinder13 1
+    400818: Cylinder13 2
+    400820: Cylinder130
+    400822: Cylinder131
+    400824: Cylinder132
+    400826: Cylinder133
+    400828: Cylinder134
+    400830: Cylinder135
+    400832: Cylinder136
+    400834: Cylinder137
+    400836: Cylinder138
+    400838: Cylinder139
+    400840: Cylinder14
+    400842: Cylinder14 1
+    400844: Cylinder14 2
+    400846: Cylinder140
+    400848: Cylinder141
+    400850: Cylinder142
+    400852: Cylinder143
+    400854: Cylinder144
+    400856: Cylinder145
+    400858: Cylinder146
+    400860: Cylinder147
+    400862: Cylinder148
+    400864: Cylinder149
+    400866: Cylinder15
+    400868: Cylinder15 1
+    400870: Cylinder15 2
+    400872: Cylinder150
+    400874: Cylinder151
+    400876: Cylinder152
+    400878: Cylinder153
+    400880: Cylinder154
+    400882: Cylinder155
+    400884: Cylinder156
+    400886: Cylinder157
+    400888: Cylinder158
+    400890: Cylinder159
+    400892: Cylinder16
+    400894: Cylinder16 1
+    400896: Cylinder16 2
+    400898: Cylinder160
+    400900: Cylinder161
+    400902: Cylinder162
+    400904: Cylinder163
+    400906: Cylinder164
+    400908: Cylinder165
+    400910: Cylinder166
+    400912: Cylinder167
+    400914: Cylinder168
+    400916: Cylinder169
+    400918: Cylinder17
+    400920: Cylinder17 1
+    400922: Cylinder170
+    400924: Cylinder171
+    400926: Cylinder172
+    400928: Cylinder173
+    400930: Cylinder174
+    400932: Cylinder175
+    400934: Cylinder18
+    400936: Cylinder18 1
+    400938: Cylinder18 2
+    400940: Cylinder19
+    400942: Cylinder19 1
+    400944: Cylinder19 2
+    400946: Cylinder20
+    400948: Cylinder21
+    400950: Cylinder22
+    400952: Cylinder23
+    400954: Cylinder24
+    400956: Cylinder25
+    400958: Cylinder26
+    400960: Cylinder27
+    400962: Cylinder28
+    400964: Cylinder29
+    400966: Cylinder30
+    400968: Cylinder31
+    400970: Cylinder32
+    400972: Cylinder33
+    400974: Cylinder34
+    400976: Cylinder35
+    400978: Cylinder36
+    400980: Cylinder37
+    400982: Cylinder38
+    400984: Cylinder39
+    400986: Cylinder40
+    400988: Cylinder41
+    400990: Cylinder42
+    400992: Cylinder43
+    400994: Cylinder44
+    400996: Cylinder45
+    400998: Cylinder46
+    401000: Cylinder47
+    401002: Cylinder48
+    401004: Cylinder49
+    401006: Cylinder50
+    401008: Cylinder51
+    401010: Cylinder52
+    401012: Cylinder53
+    401014: Cylinder54
+    401016: Cylinder55
+    401018: Cylinder56
+    401020: Cylinder57
+    401022: Cylinder58
+    401024: Cylinder59
+    401026: Cylinder60
+    401028: Cylinder61
+    401030: Cylinder62
+    401032: Cylinder63
+    401034: Cylinder64
+    401036: Cylinder65
+    401038: Cylinder66
+    401040: Cylinder67
+    401042: Cylinder68
+    401044: Cylinder69
+    401046: Cylinder70
+    401048: Cylinder71
+    401050: Cylinder72
+    401052: Cylinder73
+    401054: Cylinder74
+    401056: Cylinder75
+    401058: Cylinder76
+    401060: Cylinder77
+    401062: Cylinder78
+    401064: Cylinder79
+    401066: Cylinder80
+    401068: Cylinder81
+    401070: Cylinder82
+    401072: Cylinder83
+    401074: Cylinder84
+    401076: Cylinder85
+    401078: Cylinder86
+    401080: Cylinder87
+    401082: Cylinder88
+    401084: Cylinder89
+    401086: Cylinder90
+    401088: Cylinder91
+    401090: Cylinder92
+    401092: Cylinder93
+    401094: Cylinder94
+    401096: Cylinder95
+    401098: Cylinder96
+    401100: Cylinder97
+    401102: Cylinder98
+    401104: Cylinder99
+    401106: d-kaca dabuk
+    401108: d-kaca dabuk01
+    401110: d-kaca dabuk02
+    401112: d-kaca dabuk03
+    401114: d-kaca dabuk04
+    401116: d-kaca dabuk05
+    401118: d-kaca dabuk06
+    401120: d-kaca dabuk07
+    401122: diode dabuk
+    401124: diode dabuk01
+    401126: diode dabuk02
+    401128: diode dabuk03
+    401130: diode dabuk04
+    401132: diode dabuk05
+    401134: diode dabuk06
+    401136: diode dabuk07
+    401138: diode dabuk08
+    401140: diode dabuk09
+    401142: diode dabuk10
+    401144: diode jadi
+    401146: diode jadi01
+    401148: diode jadi02
+    401150: diode jadi03
+    401152: diode jadi04
+    401154: dudukan
+    401156: fan
+    401158: fan 1
+    401160: fan cable
+    401162: fcs 9014
+    401164: fcs 9015
+    401166: fcs 9016
+    401168: fcs 9017
+    401170: fcs 9018
+    401172: fcs 9019
+    401174: filamen
+    401176: fuseku
+    401178: GND
+    401180: gnd more
+    401182: gnd more2
+    401184: heatsink 1
+    401186: heatsink 2
+    401188: ic 2 food
+    401190: ic 2005 z
+    401192: IC regulator
+    401194: IC regulator01
+    401196: IC regulator02
+    401198: IC regulator03
+    401200: IC regulator04
+    401202: isolator
+    401204: isolator01
+    401206: isolator02
+    401208: isolator03
+    401210: isolator04
+    401212: isolator05
+    401214: isolator06
+    401216: jack ac
+    401218: jack-b
+    401220: kabel -12V
+    401222: kabel 12V
+    401224: kabel 12V-1
+    401226: kabel 12V-2
+    401228: kabel 12V-3
+    401230: kabel 12V-4
+    401232: kabel 12V-5
+    401234: kabel 12V-6
+    401236: kabel 3v3
+    401238: kabel 3v3-1
+    401240: kabel 3v3-2
+    401242: kabel 3v3-3
+    401244: kabel 3v3-4
+    401246: kabel 3v3-5
+    401248: kabel 5V
+    401250: kabel ac ground
+    401252: kabel ac ground 1
+    401254: kabel ac in 1
+    401256: kabel ac in 2
+    401258: kabel fan +
+    401260: kabel fan -
+    401262: kabel ground
+    401264: kaca
+    401266: kaki dabuk
+    401268: kaki dabuk01
+    401270: kaki dabuk02
+    401272: kaki dabuk03
+    401274: kaki dabuk04
+    401276: kaki dabuk05
+    401278: kaki dabuk06
+    401280: kaki dabuk07
+    401282: kaki dabuk08
+    401284: kaki dabuk09
+    401286: kaki dabuk10
+    401288: kaki dabuk11
+    401290: kaki dabuk12
+    401292: kaki dabuk13
+    401294: kaki dabuk15
+    401296: kaki dabuk16
+    401298: kaki dabuk17
+    401300: kaki dabuk18
+    401302: kaki dabuk19
+    401304: kaki dabuk20
+    401306: kaki dabuk21
+    401308: kaki dabuk22
+    401310: kaki dabuk23
+    401312: kaki dabuk24
+    401314: kaki dabuk25
+    401316: kaki dabuk26
+    401318: kaki dabuk27
+    401320: kaki dabuk28
+    401322: kaki dabuk29
+    401324: kaki dabuk30
+    401326: kaki dabuk31
+    401328: kaki dabuk32
+    401330: kaki lengkung
+    401332: kaki lengkung01
+    401334: kaki lengkung02
+    401336: kaki lengkung03
+    401338: kaki lengkung04
+    401340: kaki pendek
+    401342: kaki pendek 1
+    401344: kaki pendek01
+    401346: kaki pendek01 1
+    401348: kaki tekuk04
+    401350: kaki tekuk04 1
+    401352: kaki tekuk1
+    401354: kaki tekuk1 1
+    401356: kipasnya
+    401358: kipasnya 1
+    401360: kumparan
+    401362: kumparan 1
+    401364: kumparan ac
+    401366: kumparan ac01
+    401368: kumparan filter
+    401370: kumparan filter01
+    401372: kumparan filter02
+    401374: kumparan from mb
+    401376: L-Ext01
+    401378: L-Ext02
+    401380: L-Ext03
+    401382: L-Ext04
+    401384: Line01
+    401386: Line02
+    401388: Line03
+    401390: Line04
+    401392: Line05
+    401394: Line06
+    401396: Line07
+    401398: Line08
+    401400: Line09
+    401402: Line10
+    401404: Line11
+    401406: Line12
+    401408: lines
+    401410: link cable
+    401412: link cable01
+    401414: link cable02
+    401416: link cable05
+    401418: link cable07
+    401420: Loft01
+    401422: Loft02
+    401424: Loft03
+    401426: Loft04
+    401428: Loft05
+    401430: Loft06
+    401432: Loft06 1
+    401434: Loft07
+    401436: Loft07 1
+    401438: Loft08
+    401440: Loft08 1
+    401442: Loft09
+    401444: Loft09 1
+    401446: Loft10
+    401448: Loft11
+    401450: Loft12
+    401452: Loft13
+    401454: Loft14
+    401456: Loft14 1
+    401458: Loft15
+    401460: Loft15 1
+    401462: Loft16
+    401464: Loft16 1
+    401466: Loft17
+    401468: Loft17 1
+    401470: Loft18
+    401472: Loft19
+    401474: Loft19 1
+    401476: Loft20
+    401478: Loft20 1
+    401480: Loft21
+    401482: Loft22
+    401484: Loft22 1
+    401486: Loft23
+    401488: Loft24
+    401490: Loft25
+    401492: Loft25 1
+    401494: Loft26
+    401496: Loft26 1
+    401498: Loft27
+    401500: Loft27 1
+    401502: Loft28
+    401504: Loft29
+    401506: Loft30
+    401508: Loft31
+    401510: Loft32
+    401512: Loft33
+    401514: Loft34
+    401516: Loft35
+    401518: Loft36
+    401520: Loft37
+    401522: Loft38
+    401524: Loft39
+    401526: Loft40
+    401528: Loft41
+    401530: Loft42
+    401532: Loft43
+    401534: Loft44
+    401536: Loft44 1
+    401538: Loft45
+    401540: Loft45 1
+    401542: Loft46
+    401544: Loft46 1
+    401546: Loft47
+    401548: Loft47 1
+    401550: Loft48
+    401552: Loft48 1
+    401554: Loft49
+    401556: Loft50
+    401558: Loft51
+    401560: Loft52
+    401562: Loft53
+    401564: Loft54
+    401566: Loft55
+    401568: Loft56
+    401570: Loft57
+    401572: Loft58
+    401574: Loft59
+    401576: Loft60
+    401578: Loft61
+    401580: Loft62
+    401582: Loft63
+    401584: Loft64
+    401586: Loft65
+    401588: Loft66
+    401590: Loft67
+    401592: Loft68
+    401594: Loft69
+    401596: Loft70
+    401598: Loft71
+    401600: Loft72
+    401602: Loft73
+    401604: Loft73 1
+    401606: Loft74
+    401608: Loft74 1
+    401610: Loft75
+    401612: Loft75 1
+    401614: Loft76
+    401616: Loft76 1
+    401618: Loft77
+    401620: Loft78
+    401622: Loft79
+    401624: magnet
+    401626: magnet 1
+    401628: main pcb
+    401630: main plug
+    401632: main plug02
+    401634: Object01
+    401636: Object01 1
+    401638: Object01 2
+    401640: Object01 3
+    401642: Object01 4
+    401644: Object02
+    401646: Object04
+    401648: Object05
+    401650: Object06
+    401652: Object07
+    401654: Object08
+    401656: Object09
+    401658: Object10
+    401660: Object11
+    401662: Object12
+    401664: Object13
+    401666: Object14
+    401668: Object15
+    401670: Object16
+    401672: Object17
+    401674: Object18
+    401676: Object19
+    401678: Object20
+    401680: Object21
+    401682: Object23
+    401684: Object24
+    401686: Object25
+    401688: Object26
+    401690: Object27
+    401692: Object28
+    401694: Object29
+    401696: Object30
+    401698: Object31
+    401700: Object32
+    401702: Object33
+    401704: Object34
+    401706: Object35
+    401708: Object36
+    401710: Object37
+    401712: Object38
+    401714: Object39
+    401716: Object40
+    401718: Object41
+    401720: Object42
+    401722: Object43
+    401724: Object44
+    401726: Object45
+    401728: Object46
+    401730: Object47
+    401732: Object48
+    401734: Object49
+    401736: Object50
+    401738: Object51
+    401740: Object52
+    401742: Object53
+    401744: Object54
+    401746: Object55
+    401748: Object56
+    401750: Object57
+    401752: Object58
+    401754: Object59
+    401756: Object60
+    401758: Object61
+    401760: Object62
+    401762: Object63
+    401764: Object64
+    401766: Object65
+    401768: Object66
+    401770: Object67
+    401772: Object68
+    401774: Object69
+    401776: Object70
+    401778: Object71
+    401780: Object72
+    401782: Object73
+    401784: Object74
+    401786: OilTank01
+    401788: OilTank01 1
+    401790: OilTank01 2
+    401792: OilTank02
+    401794: OilTank04
+    401796: OilTank05
+    401798: OilTank06
+    401800: OilTank07
+    401802: OilTank08
+    401804: OilTank09
+    401806: OilTank10
+    401808: OilTank11
+    401810: OilTank12
+    401812: OilTank13
+    401814: OilTank14
+    401816: OilTank15
+    401818: OilTank16
+    401820: OilTank17
+    401822: OilTank18
+    401824: OilTank19
+    401826: pcb
+    401828: pcb 1
+    401830: pcb 1 1
+    401832: pcb n components
+    401834: pcb n components 1
+    401836: pcb small
+    401838: pins
+    401840: Plane01
+    401842: Plane02
+    401844: plastik isolasi
+    401846: plastik isolasi 1
+    401848: //RootNode
+    401850: r body02
+    401852: r body02 1
+    401854: r body03
+    401856: r body03 1
+    401858: r body04
+    401860: r body04 1
+    401862: r skaki tekuk02
+    401864: r skaki tekuk02 1
+    401866: r skaki tekuk03
+    401868: r skaki tekuk03 1
+    401870: r skaki tekuk1
+    401872: r skaki tekuk1 1
+    401874: R04
+    401876: R04 1
+    401878: R1
+    401880: R1 1
+    401882: resistor biasa dabuk
+    401884: resistor biasa dabuk01
+    401886: resistor biasa dabuk02
+    401888: resistor biasa dabuk03
+    401890: resistor biasa dabuk04
+    401892: resistor biasa dabuk05
+    401894: resistor biasa dabuk06
+    401896: resistor biasa dabuk07
+    401898: resistor biasa dabuk08
+    401900: resistor biasa dabuk09
+    401902: resistor biasa dabuk10
+    401904: resistor biasa dabuk11
+    401906: resistor biasa dabuk12
+    401908: resistor biasa dabuk13
+    401910: resistor biasa dabuk15
+    401912: resistor biasa dabuk16
+    401914: resistor biasa dabuk17
+    401916: resistor biasa dabuk18
+    401918: resistor biasa dabuk19
+    401920: resistor biasa dabuk20
+    401922: resistor biasa dabuk21
+    401924: resistor biasa dabuk22
+    401926: resistor biasa dabuk23
+    401928: resistor biasa dabuk24
+    401930: resistor biasa dabuk25
+    401932: resistor biasa dabuk26
+    401934: resistor biasa dabuk27
+    401936: resistor biasa dabuk28
+    401938: resistor biasa dabuk29
+    401940: resistor biasa dabuk30
+    401942: resistor biasa dabuk31
+    401944: resistor biasa dabuk32
+    401946: resistor big stand
+    401948: resistor big stand01
+    401950: resistor big stand02
+    401952: resistor big stand03
+    401954: resistor big stand04
+    401956: resistor small dabuk
+    401958: resistor small dabuk01
+    401960: resistor small dabuk02
+    401962: resistor small dabuk03
+    401964: resistor small dabuk04
+    401966: resistor small dabuk05
+    401968: resistor small dabuk06
+    401970: resistor small dabuk07
+    401972: resistor small dabuk08
+    401974: resistor small dabuk09
+    401976: resistor small dabuk10
+    401978: resistor small dabuk11
+    401980: resistor small dabuk12
+    401982: resistor small dabuk13
+    401984: resistor small dabuk14
+    401986: resistor small dabuk15
+    401988: resistor small dabuk16
+    401990: resistor small dabuk17
+    401992: resistor small dabuk18
+    401994: resistor small dabuk19
+    401996: resistor small dabuk20
+    401998: resistor small dabuk21
+    402000: resistor small dabuk22
+    402002: resistor small dabuk23
+    402004: ring
+    402006: ring 1
+    402008: RS 01
+    402010: RS 01 1
+    402012: RS 02
+    402014: RS 02 1
+    402016: RS 03
+    402018: RS 03 1
+    402020: satai
+    402022: seal
+    402024: seal 1
+    402026: sekrup
+    402028: sekrup fan
+    402030: sekrup01
+    402032: sekrup02
+    402034: sekrup03
+    402036: sekrup04
+    402038: sekrup05
+    402040: socket a
+    402042: socket a01
+    402044: Spring01
+    402046: Spring02
+    402048: Spring03
+    402050: Text01
+    402052: Text02
+    402054: Torus01
+    402056: Torus01 1
+    402058: Torus01 2
+    402060: Torus01 3
+    402062: Torus01 4
+    402064: Torus01 5
+    402066: Torus01 6
+    402068: Torus02
+    402070: Torus02 1
+    402072: Torus03
+    402074: Torus03 1
+    402076: Torus03 2
+    402078: Torus04
+    402080: Torus04 1
+    402082: Torus04 2
+    402084: Torus05
+    402086: Torus05 1
+    402088: Torus05 2
+    402090: Torus06
+    402092: Torus07
+    402094: Torus07 1
+    402096: Torus08
+    402098: Torus08 1
+    402100: Torus08 2
+    402102: Torus09
+    402104: Torus10
+    402106: Torus100
+    402108: Torus11
+    402110: Torus12
+    402112: Torus13
+    402114: Torus14
+    402116: Torus15
+    402118: Torus16
+    402120: Torus17
+    402122: Torus18
+    402124: Torus19
+    402126: Torus20
+    402128: Torus21
+    402130: Torus22
+    402132: Torus23
+    402134: Torus24
+    402136: Torus25
+    402138: Torus26
+    402140: Torus27
+    402142: Torus28
+    402144: Torus29
+    402146: Torus30
+    402148: Torus31
+    402150: Torus32
+    402152: Torus33
+    402154: Torus34
+    402156: Torus35
+    402158: Torus36
+    402160: Torus37
+    402162: Torus38
+    402164: Torus39
+    402166: Torus40
+    402168: Torus41
+    402170: Torus42
+    402172: Torus43
+    402174: Torus44
+    402176: Torus45
+    402178: Torus46
+    402180: Torus47
+    402182: Torus48
+    402184: Torus49
+    402186: Torus50
+    402188: Torus51
+    402190: Torus52
+    402192: Torus53
+    402194: Torus54
+    402196: Torus55
+    402198: Torus56
+    402200: Torus57
+    402202: Torus58
+    402204: Torus59
+    402206: Torus60
+    402208: Torus61
+    402210: Torus62
+    402212: Torus63
+    402214: Torus64
+    402216: Torus65
+    402218: Torus66
+    402220: Torus67
+    402222: Torus68
+    402224: Torus69
+    402226: Torus70
+    402228: Torus71
+    402230: Torus72
+    402232: Torus73
+    402234: Torus74
+    402236: Torus75
+    402238: Torus76
+    402240: Torus77
+    402242: Torus78
+    402244: Torus79
+    402246: Torus80
+    402248: Torus81
+    402250: Torus82
+    402252: Torus83
+    402254: Torus84
+    402256: Torus85
+    402258: Torus86
+    402260: Torus89
+    402262: Torus90
+    402264: Torus91
+    402266: Torus92
+    402268: Torus93
+    402270: Torus94
+    402272: Torus95
+    402274: Torus96
+    402276: Torus97
+    402278: Torus98
+    402280: Torus99
+    402282: TR
+    402284: TR 1
+    402286: TR01
+    402288: TR01 1
+    402290: trafo big
+    402292: trafo small
+    402294: trafo small01
+    402296: Tube01
+    402298: Tube01 1
+    402300: Tube01 2
+    402302: Tube01 3
+    402304: Tube01 4
+    402306: Tube02
+    402308: Tube02 1
+    402310: Tube02 2
+    402312: Tube02 3
+    402314: Tube03
+    402316: Tube03 1
+    402318: Tube03 2
+    402320: Tube04
+    402322: Tube04 1
+    402324: Tube04 2
+    402326: Tube05
+    402328: Tube05 1
+    402330: Tube05 2
+    402332: Tube06
+    402334: Tube06 1
+    402336: Tube06 2
+    402338: Tube07
+    402340: Tube07 1
+    402342: Tube07 2
+    402344: Tube08
+    402346: Tube08 1
+    402348: Tube08 2
+    402350: Tube09
+    402352: Tube09 1
+    402354: Tube09 2
+    402356: Tube10
+    402358: Tube10 1
+    402360: Tube11
+    402362: Tube11 1
+    402364: Tube12
+    402366: Tube12 1
+    402368: Tube13
+    402370: Tube13 1
+    402372: Tube14
+    402374: Tube14 1
+    402376: Tube15
+    402378: Tube15 1
+    402380: Tube16
+    402382: Tube16 1
+    402384: Tube17
+    402386: Tube18
+    402388: Tube19
+    402390: Tube20
+    402392: Tube21
+    402394: Tube22
+    402396: Tube23
+    402398: Tube24
+    402400: Tube25
+    402402: Tube26
+    402404: Tube27
+    402406: Tube28
+    402408: Tube29
+    402410: Tube30
+    402412: Tube31
+    402414: Tube32
+    402416: Tube33
+    402418: Tube34
+    402420: Tube35
+    402422: Tube36
+    402424: zener dabuk
+    2300000: -12V
+    2300002: -5V
+    2300004: aekreup main
+    2300006: aekreup main01
+    2300008: aekreup main02
+    2300010: aekreup main03
+    2300012: aekreup main04
+    2300014: as
+    2300016: as 1
+    2300018: back plate
+    2300020: besi
+    2300022: besi 1
+    2300024: besi kern
+    2300026: besi kern 1
+    2300028: body
+    2300030: body C
+    2300032: body C 1
+    2300034: body01
+    2300036: body02
+    2300038: body03
+    2300040: body04
+    2300042: body05
+    2300044: body06
+    2300046: body07
+    2300048: bolongan back
+    2300050: box atas
+    2300052: Box01
+    2300054: Box01 1
+    2300056: Box01 10
+    2300058: Box01 11
+    2300060: Box01 12
+    2300062: Box01 2
+    2300064: Box01 3
+    2300066: Box01 4
+    2300068: Box01 5
+    2300070: Box01 6
+    2300072: Box01 7
+    2300074: Box01 8
+    2300076: Box01 9
+    2300078: Box02
+    2300080: Box02 1
+    2300082: Box02 2
+    2300084: Box02 3
+    2300086: Box02 4
+    2300088: Box02 5
+    2300090: Box02 6
+    2300092: Box02 7
+    2300094: Box03
+    2300096: Box03 1
+    2300098: Box03 2
+    2300100: Box03 3
+    2300102: Box03 4
+    2300104: Box03 5
+    2300106: Box04
+    2300108: Box04 1
+    2300110: Box04 2
+    2300112: Box04 3
+    2300114: Box04 4
+    2300116: Box05
+    2300118: Box05 1
+    2300120: Box05 2
+    2300122: Box05 3
+    2300124: Box05 4
+    2300126: Box06
+    2300128: Box06 1
+    2300130: Box06 2
+    2300132: Box06 3
+    2300134: Box06 4
+    2300136: Box07
+    2300138: Box07 1
+    2300140: Box07 2
+    2300142: Box07 3
+    2300144: Box08
+    2300146: Box08 1
+    2300148: Box08 2
+    2300150: Box09
+    2300152: Box09 1
+    2300154: Box09 2
+    2300156: Box10
+    2300158: Box10 1
+    2300160: Box10 2
+    2300162: Box11
+    2300164: Box11 1
+    2300166: Box11 2
+    2300168: Box12
+    2300170: Box13
+    2300172: Box13 1
+    2300174: Box14
+    2300176: Box14 1
+    2300178: Box15
+    2300180: Box16
+    2300182: Box16 1
+    2300184: Box17
+    2300186: Box17 1
+    2300188: Box18
+    2300190: Box18 1
+    2300192: Box19
+    2300194: Box19 1
+    2300196: Box20
+    2300198: Box20 1
+    2300200: Box21
+    2300202: Box21 1
+    2300204: Box22
+    2300206: Box22 1
+    2300208: Box23
+    2300210: Box23 1
+    2300212: Box23 2
+    2300214: Box24
+    2300216: Box24 1
+    2300218: Box24 2
+    2300220: Box25
+    2300222: Box26
+    2300224: Box27
+    2300226: Box28
+    2300228: Box29
+    2300230: Box30
+    2300232: Box31
+    2300234: Box32
+    2300236: Box33
+    2300238: Box34
+    2300240: Box35
+    2300242: Box36
+    2300244: Box37
+    2300246: Box38
+    2300248: Box39
+    2300250: Box40
+    2300252: Box41
+    2300254: Box42
+    2300256: Box43
+    2300258: Box44
+    2300260: Box45
+    2300262: Box46
+    2300264: Box47
+    2300266: Box48
+    2300268: Box49
+    2300270: Box50
+    2300272: Box51
+    2300274: Box52
+    2300276: Box53
+    2300278: Box54
+    2300280: Box55
+    2300282: Box56
+    2300284: Box57
+    2300286: Box58
+    2300288: Box59
+    2300290: Box60
+    2300292: Box61
+    2300294: Box62
+    2300296: Box63
+    2300298: Box65
+    2300300: Box67
+    2300302: Box68
+    2300304: Box69
+    2300306: Box70
+    2300308: Box71
+    2300310: Box72
+    2300312: Box73
+    2300314: Box74
+    2300316: Box75
+    2300318: Box76
+    2300320: Box77
+    2300322: Box78
+    2300324: Box79
+    2300326: Box80
+    2300328: c-ac kuning no food
+    2300330: c-ac kuning no food01
+    2300332: cap
+    2300334: cap 1
+    2300336: cap 2
+    2300338: cap 3
+    2300340: cap 4
+    2300342: cap01
+    2300344: cap02
+    2300346: cap03
+    2300348: cap04
+    2300350: cap05
+    2300352: cap06
+    2300354: cap07
+    2300356: cap08
+    2300358: cap09
+    2300360: cap10
+    2300362: cap11
+    2300364: cap12
+    2300366: cap13
+    2300368: cap14
+    2300370: cap15
+    2300372: cap16
+    2300374: cap17
+    2300376: cap18
+    2300378: cap19
+    2300380: case
+    2300382: case 1
+    2300384: ChamferBox01
+    2300386: ChamferBox01 1
+    2300388: ChamferBox01 2
+    2300390: ChamferBox01 3
+    2300392: ChamferBox01 4
+    2300394: ChamferBox02
+    2300396: ChamferBox02 1
+    2300398: ChamferBox03
+    2300400: ChamferBox04
+    2300402: ChamferBox05
+    2300404: ChamferBox06
+    2300406: ChamferBox07
+    2300408: ChamferBox08
+    2300410: ChamferBox09
+    2300412: ChamferBox10
+    2300414: ChamferCyl01
+    2300416: ChamferCyl01 1
+    2300418: ChamferCyl01 2
+    2300420: ChamferCyl01 3
+    2300422: ChamferCyl01 4
+    2300424: ChamferCyl01 5
+    2300426: ChamferCyl02
+    2300428: ChamferCyl03
+    2300430: ChamferCyl04
+    2300432: ChamferCyl05
+    2300434: ChamferCyl06
+    2300436: ChamferCyl07
+    2300438: ChamferCyl08
+    2300440: ChamferCyl09
+    2300442: ChamferCyl10
+    2300444: ChamferCyl11
+    2300446: ChamferCyl12
+    2300448: ChamferCyl13
+    2300450: ChamferCyl14
+    2300452: ChamferCyl15
+    2300454: ChamferCyl16
+    2300456: ChamferCyl17
+    2300458: ChamferCyl18
+    2300460: ChamferCyl19
+    2300462: ChamferCyl20
+    2300464: ChamferCyl21
+    2300466: ChamferCyl22
+    2300468: ChamferCyl23
+    2300470: ChamferCyl24
+    2300472: ChamferCyl25
+    2300474: ChamferCyl26
+    2300476: ChamferCyl27
+    2300478: ChamferCyl28
+    2300480: ChamferCyl29
+    2300482: ChamferCyl30
+    2300484: ChamferCyl31
+    2300486: ChamferCyl32
+    2300488: Circle01
+    2300490: crazy jumper
+    2300492: crazy jumper01
+    2300494: crazy jumper02
+    2300496: crazy jumper03
+    2300498: crazy jumper04
+    2300500: crazy jumper05
+    2300502: crazy jumper06
+    2300504: crazy jumper07
+    2300506: crazy jumper08
+    2300508: crazy jumper09
+    2300510: crazy jumper10
+    2300512: crazy jumper11
+    2300514: crazy jumper12
+    2300516: crazy jumper13
+    2300518: crazy jumper14
+    2300520: crazy jumper15
+    2300522: crazy jumper16
+    2300524: crazy jumper17
+    2300526: crazy jumper18
+    2300528: crazy jumper20
+    2300530: crazy jumper21
+    2300532: Cylinder01
+    2300534: Cylinder01 1
+    2300536: Cylinder01 10
+    2300538: Cylinder01 11
+    2300540: Cylinder01 12
+    2300542: Cylinder01 13
+    2300544: Cylinder01 14
+    2300546: Cylinder01 15
+    2300548: Cylinder01 16
+    2300550: Cylinder01 17
+    2300552: Cylinder01 2
+    2300554: Cylinder01 3
+    2300556: Cylinder01 4
+    2300558: Cylinder01 5
+    2300560: Cylinder01 6
+    2300562: Cylinder01 7
+    2300564: Cylinder01 8
+    2300566: Cylinder01 9
+    2300568: Cylinder02
+    2300570: Cylinder02 1
+    2300572: Cylinder02 2
+    2300574: Cylinder02 3
+    2300576: Cylinder02 4
+    2300578: Cylinder02 5
+    2300580: Cylinder02 6
+    2300582: Cylinder02 7
+    2300584: Cylinder03
+    2300586: Cylinder03 1
+    2300588: Cylinder04
+    2300590: Cylinder04 1
+    2300592: Cylinder04 2
+    2300594: Cylinder05
+    2300596: Cylinder05 1
+    2300598: Cylinder05 2
+    2300600: Cylinder05 3
+    2300602: Cylinder05 4
+    2300604: Cylinder05 5
+    2300606: Cylinder05 6
+    2300608: Cylinder06
+    2300610: Cylinder06 1
+    2300612: Cylinder06 2
+    2300614: Cylinder06 3
+    2300616: Cylinder06 4
+    2300618: Cylinder06 5
+    2300620: Cylinder07
+    2300622: Cylinder07 1
+    2300624: Cylinder08
+    2300626: Cylinder08 1
+    2300628: Cylinder08 2
+    2300630: Cylinder09
+    2300632: Cylinder09 1
+    2300634: Cylinder09 2
+    2300636: Cylinder10
+    2300638: Cylinder10 1
+    2300640: Cylinder10 2
+    2300642: Cylinder100
+    2300644: Cylinder101
+    2300646: Cylinder102
+    2300648: Cylinder103
+    2300650: Cylinder104
+    2300652: Cylinder105
+    2300654: Cylinder106
+    2300656: Cylinder107
+    2300658: Cylinder108
+    2300660: Cylinder109
+    2300662: Cylinder11
+    2300664: Cylinder11 1
+    2300666: Cylinder110
+    2300668: Cylinder111
+    2300670: Cylinder112
+    2300672: Cylinder113
+    2300674: Cylinder114
+    2300676: Cylinder115
+    2300678: Cylinder116
+    2300680: Cylinder117
+    2300682: Cylinder118
+    2300684: Cylinder119
+    2300686: Cylinder12
+    2300688: Cylinder120
+    2300690: Cylinder121
+    2300692: Cylinder122
+    2300694: Cylinder123
+    2300696: Cylinder124
+    2300698: Cylinder125
+    2300700: Cylinder126
+    2300702: Cylinder127
+    2300704: Cylinder128
+    2300706: Cylinder129
+    2300708: Cylinder13
+    2300710: Cylinder13 1
+    2300712: Cylinder13 2
+    2300714: Cylinder130
+    2300716: Cylinder131
+    2300718: Cylinder132
+    2300720: Cylinder133
+    2300722: Cylinder134
+    2300724: Cylinder135
+    2300726: Cylinder136
+    2300728: Cylinder137
+    2300730: Cylinder138
+    2300732: Cylinder139
+    2300734: Cylinder14
+    2300736: Cylinder14 1
+    2300738: Cylinder14 2
+    2300740: Cylinder140
+    2300742: Cylinder141
+    2300744: Cylinder142
+    2300746: Cylinder143
+    2300748: Cylinder144
+    2300750: Cylinder145
+    2300752: Cylinder146
+    2300754: Cylinder147
+    2300756: Cylinder148
+    2300758: Cylinder149
+    2300760: Cylinder15
+    2300762: Cylinder15 1
+    2300764: Cylinder15 2
+    2300766: Cylinder150
+    2300768: Cylinder151
+    2300770: Cylinder152
+    2300772: Cylinder153
+    2300774: Cylinder154
+    2300776: Cylinder155
+    2300778: Cylinder156
+    2300780: Cylinder157
+    2300782: Cylinder158
+    2300784: Cylinder159
+    2300786: Cylinder16
+    2300788: Cylinder16 1
+    2300790: Cylinder16 2
+    2300792: Cylinder160
+    2300794: Cylinder161
+    2300796: Cylinder162
+    2300798: Cylinder163
+    2300800: Cylinder164
+    2300802: Cylinder165
+    2300804: Cylinder166
+    2300806: Cylinder167
+    2300808: Cylinder168
+    2300810: Cylinder169
+    2300812: Cylinder17
+    2300814: Cylinder17 1
+    2300816: Cylinder170
+    2300818: Cylinder171
+    2300820: Cylinder172
+    2300822: Cylinder173
+    2300824: Cylinder174
+    2300826: Cylinder175
+    2300828: Cylinder18
+    2300830: Cylinder18 1
+    2300832: Cylinder18 2
+    2300834: Cylinder19
+    2300836: Cylinder19 1
+    2300838: Cylinder19 2
+    2300840: Cylinder20
+    2300842: Cylinder21
+    2300844: Cylinder22
+    2300846: Cylinder23
+    2300848: Cylinder24
+    2300850: Cylinder25
+    2300852: Cylinder26
+    2300854: Cylinder27
+    2300856: Cylinder28
+    2300858: Cylinder29
+    2300860: Cylinder30
+    2300862: Cylinder31
+    2300864: Cylinder32
+    2300866: Cylinder33
+    2300868: Cylinder34
+    2300870: Cylinder35
+    2300872: Cylinder36
+    2300874: Cylinder37
+    2300876: Cylinder38
+    2300878: Cylinder39
+    2300880: Cylinder40
+    2300882: Cylinder41
+    2300884: Cylinder42
+    2300886: Cylinder43
+    2300888: Cylinder44
+    2300890: Cylinder45
+    2300892: Cylinder46
+    2300894: Cylinder47
+    2300896: Cylinder48
+    2300898: Cylinder49
+    2300900: Cylinder50
+    2300902: Cylinder51
+    2300904: Cylinder52
+    2300906: Cylinder53
+    2300908: Cylinder54
+    2300910: Cylinder55
+    2300912: Cylinder56
+    2300914: Cylinder57
+    2300916: Cylinder58
+    2300918: Cylinder59
+    2300920: Cylinder60
+    2300922: Cylinder61
+    2300924: Cylinder62
+    2300926: Cylinder63
+    2300928: Cylinder64
+    2300930: Cylinder65
+    2300932: Cylinder66
+    2300934: Cylinder67
+    2300936: Cylinder68
+    2300938: Cylinder69
+    2300940: Cylinder70
+    2300942: Cylinder71
+    2300944: Cylinder72
+    2300946: Cylinder73
+    2300948: Cylinder74
+    2300950: Cylinder75
+    2300952: Cylinder76
+    2300954: Cylinder77
+    2300956: Cylinder78
+    2300958: Cylinder79
+    2300960: Cylinder80
+    2300962: Cylinder81
+    2300964: Cylinder82
+    2300966: Cylinder83
+    2300968: Cylinder84
+    2300970: Cylinder85
+    2300972: Cylinder86
+    2300974: Cylinder87
+    2300976: Cylinder88
+    2300978: Cylinder89
+    2300980: Cylinder90
+    2300982: Cylinder91
+    2300984: Cylinder92
+    2300986: Cylinder93
+    2300988: Cylinder94
+    2300990: Cylinder95
+    2300992: Cylinder96
+    2300994: Cylinder97
+    2300996: Cylinder98
+    2300998: Cylinder99
+    2301000: filamen
+    2301002: gnd more
+    2301004: gnd more2
+    2301006: heatsink 1
+    2301008: heatsink 2
+    2301010: isolator
+    2301012: isolator01
+    2301014: isolator02
+    2301016: isolator03
+    2301018: isolator04
+    2301020: isolator05
+    2301022: isolator06
+    2301024: jack-b
+    2301026: kabel -12V
+    2301028: kabel 12V-1
+    2301030: kabel 12V-2
+    2301032: kabel 12V-3
+    2301034: kabel 12V-4
+    2301036: kabel 12V-5
+    2301038: kabel 12V-6
+    2301040: kabel 3v3-1
+    2301042: kabel 3v3-2
+    2301044: kabel 3v3-3
+    2301046: kabel 3v3-4
+    2301048: kabel 3v3-5
+    2301050: kabel ac ground
+    2301052: kabel ac ground 1
+    2301054: kabel ac in 1
+    2301056: kabel ac in 2
+    2301058: kabel fan +
+    2301060: kabel fan -
+    2301062: kaca
+    2301064: kaki lengkung
+    2301066: kaki lengkung01
+    2301068: kaki lengkung02
+    2301070: kaki lengkung03
+    2301072: kaki lengkung04
+    2301074: kipasnya
+    2301076: kipasnya 1
+    2301078: kumparan from mb
+    2301080: L-Ext01
+    2301082: L-Ext02
+    2301084: L-Ext03
+    2301086: L-Ext04
+    2301088: Loft01
+    2301090: Loft02
+    2301092: Loft03
+    2301094: Loft04
+    2301096: Loft05
+    2301098: Loft06
+    2301100: Loft06 1
+    2301102: Loft07
+    2301104: Loft07 1
+    2301106: Loft08
+    2301108: Loft08 1
+    2301110: Loft09
+    2301112: Loft09 1
+    2301114: Loft10
+    2301116: Loft11
+    2301118: Loft12
+    2301120: Loft13
+    2301122: Loft14
+    2301124: Loft14 1
+    2301126: Loft15
+    2301128: Loft15 1
+    2301130: Loft16
+    2301132: Loft16 1
+    2301134: Loft17
+    2301136: Loft17 1
+    2301138: Loft18
+    2301140: Loft19
+    2301142: Loft19 1
+    2301144: Loft20
+    2301146: Loft20 1
+    2301148: Loft21
+    2301150: Loft22
+    2301152: Loft22 1
+    2301154: Loft23
+    2301156: Loft24
+    2301158: Loft25
+    2301160: Loft25 1
+    2301162: Loft26
+    2301164: Loft26 1
+    2301166: Loft27
+    2301168: Loft27 1
+    2301170: Loft28
+    2301172: Loft29
+    2301174: Loft30
+    2301176: Loft31
+    2301178: Loft32
+    2301180: Loft33
+    2301182: Loft34
+    2301184: Loft35
+    2301186: Loft36
+    2301188: Loft37
+    2301190: Loft38
+    2301192: Loft39
+    2301194: Loft40
+    2301196: Loft41
+    2301198: Loft42
+    2301200: Loft43
+    2301202: Loft44
+    2301204: Loft44 1
+    2301206: Loft45
+    2301208: Loft45 1
+    2301210: Loft46
+    2301212: Loft46 1
+    2301214: Loft47
+    2301216: Loft47 1
+    2301218: Loft48
+    2301220: Loft48 1
+    2301222: Loft49
+    2301224: Loft50
+    2301226: Loft51
+    2301228: Loft52
+    2301230: Loft53
+    2301232: Loft54
+    2301234: Loft55
+    2301236: Loft56
+    2301238: Loft57
+    2301240: Loft58
+    2301242: Loft59
+    2301244: Loft60
+    2301246: Loft61
+    2301248: Loft62
+    2301250: Loft63
+    2301252: Loft64
+    2301254: Loft65
+    2301256: Loft66
+    2301258: Loft67
+    2301260: Loft68
+    2301262: Loft69
+    2301264: Loft70
+    2301266: Loft71
+    2301268: Loft72
+    2301270: Loft73
+    2301272: Loft73 1
+    2301274: Loft74
+    2301276: Loft74 1
+    2301278: Loft75
+    2301280: Loft75 1
+    2301282: Loft76
+    2301284: Loft76 1
+    2301286: Loft77
+    2301288: Loft78
+    2301290: Loft79
+    2301292: magnet
+    2301294: magnet 1
+    2301296: main pcb
+    2301298: main plug
+    2301300: main plug02
+    2301302: Object01
+    2301304: Object01 1
+    2301306: Object01 2
+    2301308: Object01 3
+    2301310: Object01 4
+    2301312: Object02
+    2301314: Object04
+    2301316: Object05
+    2301318: Object06
+    2301320: Object07
+    2301322: Object08
+    2301324: Object09
+    2301326: Object10
+    2301328: Object11
+    2301330: Object12
+    2301332: Object13
+    2301334: Object14
+    2301336: Object15
+    2301338: Object16
+    2301340: Object17
+    2301342: Object18
+    2301344: Object19
+    2301346: Object20
+    2301348: Object21
+    2301350: Object23
+    2301352: Object24
+    2301354: Object25
+    2301356: Object26
+    2301358: Object27
+    2301360: Object28
+    2301362: Object29
+    2301364: Object30
+    2301366: Object31
+    2301368: Object32
+    2301370: Object33
+    2301372: Object34
+    2301374: Object35
+    2301376: Object36
+    2301378: Object37
+    2301380: Object38
+    2301382: Object39
+    2301384: Object40
+    2301386: Object41
+    2301388: Object42
+    2301390: Object43
+    2301392: Object44
+    2301394: Object45
+    2301396: Object46
+    2301398: Object47
+    2301400: Object48
+    2301402: Object49
+    2301404: Object50
+    2301406: Object51
+    2301408: Object52
+    2301410: Object53
+    2301412: Object54
+    2301414: Object55
+    2301416: Object56
+    2301418: Object57
+    2301420: Object58
+    2301422: Object59
+    2301424: Object60
+    2301426: Object61
+    2301428: Object62
+    2301430: Object63
+    2301432: Object64
+    2301434: Object65
+    2301436: Object66
+    2301438: Object67
+    2301440: Object68
+    2301442: Object69
+    2301444: Object70
+    2301446: Object71
+    2301448: Object72
+    2301450: Object73
+    2301452: Object74
+    2301454: OilTank01
+    2301456: OilTank01 1
+    2301458: OilTank01 2
+    2301460: OilTank02
+    2301462: OilTank04
+    2301464: OilTank05
+    2301466: OilTank06
+    2301468: OilTank07
+    2301470: OilTank08
+    2301472: OilTank09
+    2301474: OilTank10
+    2301476: OilTank11
+    2301478: OilTank12
+    2301480: OilTank13
+    2301482: OilTank14
+    2301484: OilTank15
+    2301486: OilTank16
+    2301488: OilTank17
+    2301490: OilTank18
+    2301492: OilTank19
+    2301494: pcb
+    2301496: pcb 1
+    2301498: pcb 1 1
+    2301500: Plane01
+    2301502: Plane02
+    2301504: plastik isolasi
+    2301506: plastik isolasi 1
+    2301508: r body02
+    2301510: r body02 1
+    2301512: r body03
+    2301514: r body03 1
+    2301516: r body04
+    2301518: r body04 1
+    2301520: ring
+    2301522: ring 1
+    2301524: seal
+    2301526: seal 1
+    2301528: Spring01
+    2301530: Spring02
+    2301532: Spring03
+    2301534: Text01
+    2301536: Text02
+    2301538: Torus01
+    2301540: Torus01 1
+    2301542: Torus01 2
+    2301544: Torus01 3
+    2301546: Torus01 4
+    2301548: Torus01 5
+    2301550: Torus01 6
+    2301552: Torus02
+    2301554: Torus02 1
+    2301556: Torus03
+    2301558: Torus03 1
+    2301560: Torus03 2
+    2301562: Torus04
+    2301564: Torus04 1
+    2301566: Torus04 2
+    2301568: Torus05
+    2301570: Torus05 1
+    2301572: Torus05 2
+    2301574: Torus06
+    2301576: Torus07
+    2301578: Torus07 1
+    2301580: Torus08
+    2301582: Torus08 1
+    2301584: Torus08 2
+    2301586: Torus09
+    2301588: Torus10
+    2301590: Torus100
+    2301592: Torus11
+    2301594: Torus12
+    2301596: Torus13
+    2301598: Torus14
+    2301600: Torus15
+    2301602: Torus16
+    2301604: Torus17
+    2301606: Torus18
+    2301608: Torus19
+    2301610: Torus20
+    2301612: Torus21
+    2301614: Torus22
+    2301616: Torus23
+    2301618: Torus24
+    2301620: Torus25
+    2301622: Torus26
+    2301624: Torus27
+    2301626: Torus28
+    2301628: Torus29
+    2301630: Torus30
+    2301632: Torus31
+    2301634: Torus32
+    2301636: Torus33
+    2301638: Torus34
+    2301640: Torus35
+    2301642: Torus36
+    2301644: Torus37
+    2301646: Torus38
+    2301648: Torus39
+    2301650: Torus40
+    2301652: Torus41
+    2301654: Torus42
+    2301656: Torus43
+    2301658: Torus44
+    2301660: Torus45
+    2301662: Torus46
+    2301664: Torus47
+    2301666: Torus48
+    2301668: Torus49
+    2301670: Torus50
+    2301672: Torus51
+    2301674: Torus52
+    2301676: Torus53
+    2301678: Torus54
+    2301680: Torus55
+    2301682: Torus56
+    2301684: Torus57
+    2301686: Torus58
+    2301688: Torus59
+    2301690: Torus60
+    2301692: Torus61
+    2301694: Torus62
+    2301696: Torus63
+    2301698: Torus64
+    2301700: Torus65
+    2301702: Torus66
+    2301704: Torus67
+    2301706: Torus68
+    2301708: Torus69
+    2301710: Torus70
+    2301712: Torus71
+    2301714: Torus72
+    2301716: Torus73
+    2301718: Torus74
+    2301720: Torus75
+    2301722: Torus76
+    2301724: Torus77
+    2301726: Torus78
+    2301728: Torus79
+    2301730: Torus80
+    2301732: Torus81
+    2301734: Torus82
+    2301736: Torus83
+    2301738: Torus84
+    2301740: Torus85
+    2301742: Torus86
+    2301744: Torus89
+    2301746: Torus90
+    2301748: Torus91
+    2301750: Torus92
+    2301752: Torus93
+    2301754: Torus94
+    2301756: Torus95
+    2301758: Torus96
+    2301760: Torus97
+    2301762: Torus98
+    2301764: Torus99
+    2301766: Tube01
+    2301768: Tube01 1
+    2301770: Tube01 2
+    2301772: Tube01 3
+    2301774: Tube01 4
+    2301776: Tube02
+    2301778: Tube02 1
+    2301780: Tube02 2
+    2301782: Tube02 3
+    2301784: Tube03
+    2301786: Tube03 1
+    2301788: Tube03 2
+    2301790: Tube04
+    2301792: Tube04 1
+    2301794: Tube04 2
+    2301796: Tube05
+    2301798: Tube05 1
+    2301800: Tube05 2
+    2301802: Tube06
+    2301804: Tube06 1
+    2301806: Tube06 2
+    2301808: Tube07
+    2301810: Tube07 1
+    2301812: Tube07 2
+    2301814: Tube08
+    2301816: Tube08 1
+    2301818: Tube08 2
+    2301820: Tube09
+    2301822: Tube09 1
+    2301824: Tube09 2
+    2301826: Tube10
+    2301828: Tube10 1
+    2301830: Tube11
+    2301832: Tube11 1
+    2301834: Tube12
+    2301836: Tube12 1
+    2301838: Tube13
+    2301840: Tube13 1
+    2301842: Tube14
+    2301844: Tube14 1
+    2301846: Tube15 1
+    2301848: Tube16
+    2301850: Tube16 1
+    2301852: Tube17
+    2301854: Tube18
+    2301856: Tube19
+    2301858: Tube20
+    2301860: Tube21
+    2301862: Tube22
+    2301864: Tube23
+    2301866: Tube24
+    2301868: Tube25
+    2301870: Tube26
+    2301872: Tube27
+    2301874: Tube28
+    2301876: Tube29
+    2301878: Tube30
+    2301880: Tube31
+    2301882: Tube32
+    2301884: Tube33
+    2301886: Tube34
+    2301888: Tube35
+    2301890: Tube36
+    3300000: -12V
+    3300002: -5V
+    3300004: aekreup main
+    3300006: aekreup main01
+    3300008: aekreup main02
+    3300010: aekreup main03
+    3300012: aekreup main04
+    3300014: as
+    3300016: as 1
+    3300018: back plate
+    3300020: besi
+    3300022: besi 1
+    3300024: besi kern
+    3300026: besi kern 1
+    3300028: body
+    3300030: body C
+    3300032: body C 1
+    3300034: body01
+    3300036: body02
+    3300038: body03
+    3300040: body04
+    3300042: body05
+    3300044: body06
+    3300046: body07
+    3300048: bolongan back
+    3300050: box atas
+    3300052: Box01
+    3300054: Box01 1
+    3300056: Box01 10
+    3300058: Box01 11
+    3300060: Box01 12
+    3300062: Box01 2
+    3300064: Box01 3
+    3300066: Box01 4
+    3300068: Box01 5
+    3300070: Box01 6
+    3300072: Box01 7
+    3300074: Box01 8
+    3300076: Box01 9
+    3300078: Box02
+    3300080: Box02 1
+    3300082: Box02 2
+    3300084: Box02 3
+    3300086: Box02 4
+    3300088: Box02 5
+    3300090: Box02 6
+    3300092: Box02 7
+    3300094: Box03
+    3300096: Box03 1
+    3300098: Box03 2
+    3300100: Box03 3
+    3300102: Box03 4
+    3300104: Box03 5
+    3300106: Box04
+    3300108: Box04 1
+    3300110: Box04 2
+    3300112: Box04 3
+    3300114: Box04 4
+    3300116: Box05
+    3300118: Box05 1
+    3300120: Box05 2
+    3300122: Box05 3
+    3300124: Box05 4
+    3300126: Box06
+    3300128: Box06 1
+    3300130: Box06 2
+    3300132: Box06 3
+    3300134: Box06 4
+    3300136: Box07
+    3300138: Box07 1
+    3300140: Box07 2
+    3300142: Box07 3
+    3300144: Box08
+    3300146: Box08 1
+    3300148: Box08 2
+    3300150: Box09
+    3300152: Box09 1
+    3300154: Box09 2
+    3300156: Box10
+    3300158: Box10 1
+    3300160: Box10 2
+    3300162: Box11
+    3300164: Box11 1
+    3300166: Box11 2
+    3300168: Box12
+    3300170: Box13
+    3300172: Box13 1
+    3300174: Box14
+    3300176: Box14 1
+    3300178: Box15
+    3300180: Box16
+    3300182: Box16 1
+    3300184: Box17
+    3300186: Box17 1
+    3300188: Box18
+    3300190: Box18 1
+    3300192: Box19
+    3300194: Box19 1
+    3300196: Box20
+    3300198: Box20 1
+    3300200: Box21
+    3300202: Box21 1
+    3300204: Box22
+    3300206: Box22 1
+    3300208: Box23
+    3300210: Box23 1
+    3300212: Box23 2
+    3300214: Box24
+    3300216: Box24 1
+    3300218: Box24 2
+    3300220: Box25
+    3300222: Box26
+    3300224: Box27
+    3300226: Box28
+    3300228: Box29
+    3300230: Box30
+    3300232: Box31
+    3300234: Box32
+    3300236: Box33
+    3300238: Box34
+    3300240: Box35
+    3300242: Box36
+    3300244: Box37
+    3300246: Box38
+    3300248: Box39
+    3300250: Box40
+    3300252: Box41
+    3300254: Box42
+    3300256: Box43
+    3300258: Box44
+    3300260: Box45
+    3300262: Box46
+    3300264: Box47
+    3300266: Box48
+    3300268: Box49
+    3300270: Box50
+    3300272: Box51
+    3300274: Box52
+    3300276: Box53
+    3300278: Box54
+    3300280: Box55
+    3300282: Box56
+    3300284: Box57
+    3300286: Box58
+    3300288: Box59
+    3300290: Box60
+    3300292: Box61
+    3300294: Box62
+    3300296: Box63
+    3300298: Box65
+    3300300: Box67
+    3300302: Box68
+    3300304: Box69
+    3300306: Box70
+    3300308: Box71
+    3300310: Box72
+    3300312: Box73
+    3300314: Box74
+    3300316: Box75
+    3300318: Box76
+    3300320: Box77
+    3300322: Box78
+    3300324: Box79
+    3300326: Box80
+    3300328: c-ac kuning no food
+    3300330: c-ac kuning no food01
+    3300332: cap
+    3300334: cap 1
+    3300336: cap 2
+    3300338: cap 3
+    3300340: cap 4
+    3300342: cap01
+    3300344: cap02
+    3300346: cap03
+    3300348: cap04
+    3300350: cap05
+    3300352: cap06
+    3300354: cap07
+    3300356: cap08
+    3300358: cap09
+    3300360: cap10
+    3300362: cap11
+    3300364: cap12
+    3300366: cap13
+    3300368: cap14
+    3300370: cap15
+    3300372: cap16
+    3300374: cap17
+    3300376: cap18
+    3300378: cap19
+    3300380: case
+    3300382: case 1
+    3300384: ChamferBox01
+    3300386: ChamferBox01 1
+    3300388: ChamferBox01 2
+    3300390: ChamferBox01 3
+    3300392: ChamferBox01 4
+    3300394: ChamferBox02
+    3300396: ChamferBox02 1
+    3300398: ChamferBox03
+    3300400: ChamferBox04
+    3300402: ChamferBox05
+    3300404: ChamferBox06
+    3300406: ChamferBox07
+    3300408: ChamferBox08
+    3300410: ChamferBox09
+    3300412: ChamferBox10
+    3300414: ChamferCyl01
+    3300416: ChamferCyl01 1
+    3300418: ChamferCyl01 2
+    3300420: ChamferCyl01 3
+    3300422: ChamferCyl01 4
+    3300424: ChamferCyl01 5
+    3300426: ChamferCyl02
+    3300428: ChamferCyl03
+    3300430: ChamferCyl04
+    3300432: ChamferCyl05
+    3300434: ChamferCyl06
+    3300436: ChamferCyl07
+    3300438: ChamferCyl08
+    3300440: ChamferCyl09
+    3300442: ChamferCyl10
+    3300444: ChamferCyl11
+    3300446: ChamferCyl12
+    3300448: ChamferCyl13
+    3300450: ChamferCyl14
+    3300452: ChamferCyl15
+    3300454: ChamferCyl16
+    3300456: ChamferCyl17
+    3300458: ChamferCyl18
+    3300460: ChamferCyl19
+    3300462: ChamferCyl20
+    3300464: ChamferCyl21
+    3300466: ChamferCyl22
+    3300468: ChamferCyl23
+    3300470: ChamferCyl24
+    3300472: ChamferCyl25
+    3300474: ChamferCyl26
+    3300476: ChamferCyl27
+    3300478: ChamferCyl28
+    3300480: ChamferCyl29
+    3300482: ChamferCyl30
+    3300484: ChamferCyl31
+    3300486: ChamferCyl32
+    3300488: Circle01
+    3300490: crazy jumper
+    3300492: crazy jumper01
+    3300494: crazy jumper02
+    3300496: crazy jumper03
+    3300498: crazy jumper04
+    3300500: crazy jumper05
+    3300502: crazy jumper06
+    3300504: crazy jumper07
+    3300506: crazy jumper08
+    3300508: crazy jumper09
+    3300510: crazy jumper10
+    3300512: crazy jumper11
+    3300514: crazy jumper12
+    3300516: crazy jumper13
+    3300518: crazy jumper14
+    3300520: crazy jumper15
+    3300522: crazy jumper16
+    3300524: crazy jumper17
+    3300526: crazy jumper18
+    3300528: crazy jumper20
+    3300530: crazy jumper21
+    3300532: Cylinder01
+    3300534: Cylinder01 1
+    3300536: Cylinder01 10
+    3300538: Cylinder01 11
+    3300540: Cylinder01 12
+    3300542: Cylinder01 13
+    3300544: Cylinder01 14
+    3300546: Cylinder01 15
+    3300548: Cylinder01 16
+    3300550: Cylinder01 17
+    3300552: Cylinder01 2
+    3300554: Cylinder01 3
+    3300556: Cylinder01 4
+    3300558: Cylinder01 5
+    3300560: Cylinder01 6
+    3300562: Cylinder01 7
+    3300564: Cylinder01 8
+    3300566: Cylinder01 9
+    3300568: Cylinder02
+    3300570: Cylinder02 1
+    3300572: Cylinder02 2
+    3300574: Cylinder02 3
+    3300576: Cylinder02 4
+    3300578: Cylinder02 5
+    3300580: Cylinder02 6
+    3300582: Cylinder02 7
+    3300584: Cylinder03
+    3300586: Cylinder03 1
+    3300588: Cylinder04
+    3300590: Cylinder04 1
+    3300592: Cylinder04 2
+    3300594: Cylinder05
+    3300596: Cylinder05 1
+    3300598: Cylinder05 2
+    3300600: Cylinder05 3
+    3300602: Cylinder05 4
+    3300604: Cylinder05 5
+    3300606: Cylinder05 6
+    3300608: Cylinder06
+    3300610: Cylinder06 1
+    3300612: Cylinder06 2
+    3300614: Cylinder06 3
+    3300616: Cylinder06 4
+    3300618: Cylinder06 5
+    3300620: Cylinder07
+    3300622: Cylinder07 1
+    3300624: Cylinder08
+    3300626: Cylinder08 1
+    3300628: Cylinder08 2
+    3300630: Cylinder09
+    3300632: Cylinder09 1
+    3300634: Cylinder09 2
+    3300636: Cylinder10
+    3300638: Cylinder10 1
+    3300640: Cylinder10 2
+    3300642: Cylinder100
+    3300644: Cylinder101
+    3300646: Cylinder102
+    3300648: Cylinder103
+    3300650: Cylinder104
+    3300652: Cylinder105
+    3300654: Cylinder106
+    3300656: Cylinder107
+    3300658: Cylinder108
+    3300660: Cylinder109
+    3300662: Cylinder11
+    3300664: Cylinder11 1
+    3300666: Cylinder110
+    3300668: Cylinder111
+    3300670: Cylinder112
+    3300672: Cylinder113
+    3300674: Cylinder114
+    3300676: Cylinder115
+    3300678: Cylinder116
+    3300680: Cylinder117
+    3300682: Cylinder118
+    3300684: Cylinder119
+    3300686: Cylinder12
+    3300688: Cylinder120
+    3300690: Cylinder121
+    3300692: Cylinder122
+    3300694: Cylinder123
+    3300696: Cylinder124
+    3300698: Cylinder125
+    3300700: Cylinder126
+    3300702: Cylinder127
+    3300704: Cylinder128
+    3300706: Cylinder129
+    3300708: Cylinder13
+    3300710: Cylinder13 1
+    3300712: Cylinder13 2
+    3300714: Cylinder130
+    3300716: Cylinder131
+    3300718: Cylinder132
+    3300720: Cylinder133
+    3300722: Cylinder134
+    3300724: Cylinder135
+    3300726: Cylinder136
+    3300728: Cylinder137
+    3300730: Cylinder138
+    3300732: Cylinder139
+    3300734: Cylinder14
+    3300736: Cylinder14 1
+    3300738: Cylinder14 2
+    3300740: Cylinder140
+    3300742: Cylinder141
+    3300744: Cylinder142
+    3300746: Cylinder143
+    3300748: Cylinder144
+    3300750: Cylinder145
+    3300752: Cylinder146
+    3300754: Cylinder147
+    3300756: Cylinder148
+    3300758: Cylinder149
+    3300760: Cylinder15
+    3300762: Cylinder15 1
+    3300764: Cylinder15 2
+    3300766: Cylinder150
+    3300768: Cylinder151
+    3300770: Cylinder152
+    3300772: Cylinder153
+    3300774: Cylinder154
+    3300776: Cylinder155
+    3300778: Cylinder156
+    3300780: Cylinder157
+    3300782: Cylinder158
+    3300784: Cylinder159
+    3300786: Cylinder16
+    3300788: Cylinder16 1
+    3300790: Cylinder16 2
+    3300792: Cylinder160
+    3300794: Cylinder161
+    3300796: Cylinder162
+    3300798: Cylinder163
+    3300800: Cylinder164
+    3300802: Cylinder165
+    3300804: Cylinder166
+    3300806: Cylinder167
+    3300808: Cylinder168
+    3300810: Cylinder169
+    3300812: Cylinder17
+    3300814: Cylinder17 1
+    3300816: Cylinder170
+    3300818: Cylinder171
+    3300820: Cylinder172
+    3300822: Cylinder173
+    3300824: Cylinder174
+    3300826: Cylinder175
+    3300828: Cylinder18
+    3300830: Cylinder18 1
+    3300832: Cylinder18 2
+    3300834: Cylinder19
+    3300836: Cylinder19 1
+    3300838: Cylinder19 2
+    3300840: Cylinder20
+    3300842: Cylinder21
+    3300844: Cylinder22
+    3300846: Cylinder23
+    3300848: Cylinder24
+    3300850: Cylinder25
+    3300852: Cylinder26
+    3300854: Cylinder27
+    3300856: Cylinder28
+    3300858: Cylinder29
+    3300860: Cylinder30
+    3300862: Cylinder31
+    3300864: Cylinder32
+    3300866: Cylinder33
+    3300868: Cylinder34
+    3300870: Cylinder35
+    3300872: Cylinder36
+    3300874: Cylinder37
+    3300876: Cylinder38
+    3300878: Cylinder39
+    3300880: Cylinder40
+    3300882: Cylinder41
+    3300884: Cylinder42
+    3300886: Cylinder43
+    3300888: Cylinder44
+    3300890: Cylinder45
+    3300892: Cylinder46
+    3300894: Cylinder47
+    3300896: Cylinder48
+    3300898: Cylinder49
+    3300900: Cylinder50
+    3300902: Cylinder51
+    3300904: Cylinder52
+    3300906: Cylinder53
+    3300908: Cylinder54
+    3300910: Cylinder55
+    3300912: Cylinder56
+    3300914: Cylinder57
+    3300916: Cylinder58
+    3300918: Cylinder59
+    3300920: Cylinder60
+    3300922: Cylinder61
+    3300924: Cylinder62
+    3300926: Cylinder63
+    3300928: Cylinder64
+    3300930: Cylinder65
+    3300932: Cylinder66
+    3300934: Cylinder67
+    3300936: Cylinder68
+    3300938: Cylinder69
+    3300940: Cylinder70
+    3300942: Cylinder71
+    3300944: Cylinder72
+    3300946: Cylinder73
+    3300948: Cylinder74
+    3300950: Cylinder75
+    3300952: Cylinder76
+    3300954: Cylinder77
+    3300956: Cylinder78
+    3300958: Cylinder79
+    3300960: Cylinder80
+    3300962: Cylinder81
+    3300964: Cylinder82
+    3300966: Cylinder83
+    3300968: Cylinder84
+    3300970: Cylinder85
+    3300972: Cylinder86
+    3300974: Cylinder87
+    3300976: Cylinder88
+    3300978: Cylinder89
+    3300980: Cylinder90
+    3300982: Cylinder91
+    3300984: Cylinder92
+    3300986: Cylinder93
+    3300988: Cylinder94
+    3300990: Cylinder95
+    3300992: Cylinder96
+    3300994: Cylinder97
+    3300996: Cylinder98
+    3300998: Cylinder99
+    3301000: filamen
+    3301002: gnd more
+    3301004: gnd more2
+    3301006: heatsink 1
+    3301008: heatsink 2
+    3301010: isolator
+    3301012: isolator01
+    3301014: isolator02
+    3301016: isolator03
+    3301018: isolator04
+    3301020: isolator05
+    3301022: isolator06
+    3301024: jack-b
+    3301026: kabel -12V
+    3301028: kabel 12V-1
+    3301030: kabel 12V-2
+    3301032: kabel 12V-3
+    3301034: kabel 12V-4
+    3301036: kabel 12V-5
+    3301038: kabel 12V-6
+    3301040: kabel 3v3-1
+    3301042: kabel 3v3-2
+    3301044: kabel 3v3-3
+    3301046: kabel 3v3-4
+    3301048: kabel 3v3-5
+    3301050: kabel ac ground
+    3301052: kabel ac ground 1
+    3301054: kabel ac in 1
+    3301056: kabel ac in 2
+    3301058: kabel fan +
+    3301060: kabel fan -
+    3301062: kaca
+    3301064: kaki lengkung
+    3301066: kaki lengkung01
+    3301068: kaki lengkung02
+    3301070: kaki lengkung03
+    3301072: kaki lengkung04
+    3301074: kipasnya
+    3301076: kipasnya 1
+    3301078: kumparan from mb
+    3301080: L-Ext01
+    3301082: L-Ext02
+    3301084: L-Ext03
+    3301086: L-Ext04
+    3301088: Loft01
+    3301090: Loft02
+    3301092: Loft03
+    3301094: Loft04
+    3301096: Loft05
+    3301098: Loft06
+    3301100: Loft06 1
+    3301102: Loft07
+    3301104: Loft07 1
+    3301106: Loft08
+    3301108: Loft08 1
+    3301110: Loft09
+    3301112: Loft09 1
+    3301114: Loft10
+    3301116: Loft11
+    3301118: Loft12
+    3301120: Loft13
+    3301122: Loft14
+    3301124: Loft14 1
+    3301126: Loft15
+    3301128: Loft15 1
+    3301130: Loft16
+    3301132: Loft16 1
+    3301134: Loft17
+    3301136: Loft17 1
+    3301138: Loft18
+    3301140: Loft19
+    3301142: Loft19 1
+    3301144: Loft20
+    3301146: Loft20 1
+    3301148: Loft21
+    3301150: Loft22
+    3301152: Loft22 1
+    3301154: Loft23
+    3301156: Loft24
+    3301158: Loft25
+    3301160: Loft25 1
+    3301162: Loft26
+    3301164: Loft26 1
+    3301166: Loft27
+    3301168: Loft27 1
+    3301170: Loft28
+    3301172: Loft29
+    3301174: Loft30
+    3301176: Loft31
+    3301178: Loft32
+    3301180: Loft33
+    3301182: Loft34
+    3301184: Loft35
+    3301186: Loft36
+    3301188: Loft37
+    3301190: Loft38
+    3301192: Loft39
+    3301194: Loft40
+    3301196: Loft41
+    3301198: Loft42
+    3301200: Loft43
+    3301202: Loft44
+    3301204: Loft44 1
+    3301206: Loft45
+    3301208: Loft45 1
+    3301210: Loft46
+    3301212: Loft46 1
+    3301214: Loft47
+    3301216: Loft47 1
+    3301218: Loft48
+    3301220: Loft48 1
+    3301222: Loft49
+    3301224: Loft50
+    3301226: Loft51
+    3301228: Loft52
+    3301230: Loft53
+    3301232: Loft54
+    3301234: Loft55
+    3301236: Loft56
+    3301238: Loft57
+    3301240: Loft58
+    3301242: Loft59
+    3301244: Loft60
+    3301246: Loft61
+    3301248: Loft62
+    3301250: Loft63
+    3301252: Loft64
+    3301254: Loft65
+    3301256: Loft66
+    3301258: Loft67
+    3301260: Loft68
+    3301262: Loft69
+    3301264: Loft70
+    3301266: Loft71
+    3301268: Loft72
+    3301270: Loft73
+    3301272: Loft73 1
+    3301274: Loft74
+    3301276: Loft74 1
+    3301278: Loft75
+    3301280: Loft75 1
+    3301282: Loft76
+    3301284: Loft76 1
+    3301286: Loft77
+    3301288: Loft78
+    3301290: Loft79
+    3301292: magnet
+    3301294: magnet 1
+    3301296: main pcb
+    3301298: main plug
+    3301300: main plug02
+    3301302: Object01
+    3301304: Object01 1
+    3301306: Object01 2
+    3301308: Object01 3
+    3301310: Object01 4
+    3301312: Object02
+    3301314: Object04
+    3301316: Object05
+    3301318: Object06
+    3301320: Object07
+    3301322: Object08
+    3301324: Object09
+    3301326: Object10
+    3301328: Object11
+    3301330: Object12
+    3301332: Object13
+    3301334: Object14
+    3301336: Object15
+    3301338: Object16
+    3301340: Object17
+    3301342: Object18
+    3301344: Object19
+    3301346: Object20
+    3301348: Object21
+    3301350: Object23
+    3301352: Object24
+    3301354: Object25
+    3301356: Object26
+    3301358: Object27
+    3301360: Object28
+    3301362: Object29
+    3301364: Object30
+    3301366: Object31
+    3301368: Object32
+    3301370: Object33
+    3301372: Object34
+    3301374: Object35
+    3301376: Object36
+    3301378: Object37
+    3301380: Object38
+    3301382: Object39
+    3301384: Object40
+    3301386: Object41
+    3301388: Object42
+    3301390: Object43
+    3301392: Object44
+    3301394: Object45
+    3301396: Object46
+    3301398: Object47
+    3301400: Object48
+    3301402: Object49
+    3301404: Object50
+    3301406: Object51
+    3301408: Object52
+    3301410: Object53
+    3301412: Object54
+    3301414: Object55
+    3301416: Object56
+    3301418: Object57
+    3301420: Object58
+    3301422: Object59
+    3301424: Object60
+    3301426: Object61
+    3301428: Object62
+    3301430: Object63
+    3301432: Object64
+    3301434: Object65
+    3301436: Object66
+    3301438: Object67
+    3301440: Object68
+    3301442: Object69
+    3301444: Object70
+    3301446: Object71
+    3301448: Object72
+    3301450: Object73
+    3301452: Object74
+    3301454: OilTank01
+    3301456: OilTank01 1
+    3301458: OilTank01 2
+    3301460: OilTank02
+    3301462: OilTank04
+    3301464: OilTank05
+    3301466: OilTank06
+    3301468: OilTank07
+    3301470: OilTank08
+    3301472: OilTank09
+    3301474: OilTank10
+    3301476: OilTank11
+    3301478: OilTank12
+    3301480: OilTank13
+    3301482: OilTank14
+    3301484: OilTank15
+    3301486: OilTank16
+    3301488: OilTank17
+    3301490: OilTank18
+    3301492: OilTank19
+    3301494: pcb
+    3301496: pcb 1
+    3301498: pcb 1 1
+    3301500: Plane01
+    3301502: Plane02
+    3301504: plastik isolasi
+    3301506: plastik isolasi 1
+    3301508: r body02
+    3301510: r body02 1
+    3301512: r body03
+    3301514: r body03 1
+    3301516: r body04
+    3301518: r body04 1
+    3301520: ring
+    3301522: ring 1
+    3301524: seal
+    3301526: seal 1
+    3301528: Spring01
+    3301530: Spring02
+    3301532: Spring03
+    3301534: Text01
+    3301536: Text02
+    3301538: Torus01
+    3301540: Torus01 1
+    3301542: Torus01 2
+    3301544: Torus01 3
+    3301546: Torus01 4
+    3301548: Torus01 5
+    3301550: Torus01 6
+    3301552: Torus02
+    3301554: Torus02 1
+    3301556: Torus03
+    3301558: Torus03 1
+    3301560: Torus03 2
+    3301562: Torus04
+    3301564: Torus04 1
+    3301566: Torus04 2
+    3301568: Torus05
+    3301570: Torus05 1
+    3301572: Torus05 2
+    3301574: Torus06
+    3301576: Torus07
+    3301578: Torus07 1
+    3301580: Torus08
+    3301582: Torus08 1
+    3301584: Torus08 2
+    3301586: Torus09
+    3301588: Torus10
+    3301590: Torus100
+    3301592: Torus11
+    3301594: Torus12
+    3301596: Torus13
+    3301598: Torus14
+    3301600: Torus15
+    3301602: Torus16
+    3301604: Torus17
+    3301606: Torus18
+    3301608: Torus19
+    3301610: Torus20
+    3301612: Torus21
+    3301614: Torus22
+    3301616: Torus23
+    3301618: Torus24
+    3301620: Torus25
+    3301622: Torus26
+    3301624: Torus27
+    3301626: Torus28
+    3301628: Torus29
+    3301630: Torus30
+    3301632: Torus31
+    3301634: Torus32
+    3301636: Torus33
+    3301638: Torus34
+    3301640: Torus35
+    3301642: Torus36
+    3301644: Torus37
+    3301646: Torus38
+    3301648: Torus39
+    3301650: Torus40
+    3301652: Torus41
+    3301654: Torus42
+    3301656: Torus43
+    3301658: Torus44
+    3301660: Torus45
+    3301662: Torus46
+    3301664: Torus47
+    3301666: Torus48
+    3301668: Torus49
+    3301670: Torus50
+    3301672: Torus51
+    3301674: Torus52
+    3301676: Torus53
+    3301678: Torus54
+    3301680: Torus55
+    3301682: Torus56
+    3301684: Torus57
+    3301686: Torus58
+    3301688: Torus59
+    3301690: Torus60
+    3301692: Torus61
+    3301694: Torus62
+    3301696: Torus63
+    3301698: Torus64
+    3301700: Torus65
+    3301702: Torus66
+    3301704: Torus67
+    3301706: Torus68
+    3301708: Torus69
+    3301710: Torus70
+    3301712: Torus71
+    3301714: Torus72
+    3301716: Torus73
+    3301718: Torus74
+    3301720: Torus75
+    3301722: Torus76
+    3301724: Torus77
+    3301726: Torus78
+    3301728: Torus79
+    3301730: Torus80
+    3301732: Torus81
+    3301734: Torus82
+    3301736: Torus83
+    3301738: Torus84
+    3301740: Torus85
+    3301742: Torus86
+    3301744: Torus89
+    3301746: Torus90
+    3301748: Torus91
+    3301750: Torus92
+    3301752: Torus93
+    3301754: Torus94
+    3301756: Torus95
+    3301758: Torus96
+    3301760: Torus97
+    3301762: Torus98
+    3301764: Torus99
+    3301766: Tube01
+    3301768: Tube01 1
+    3301770: Tube01 2
+    3301772: Tube01 3
+    3301774: Tube01 4
+    3301776: Tube02
+    3301778: Tube02 1
+    3301780: Tube02 2
+    3301782: Tube02 3
+    3301784: Tube03
+    3301786: Tube03 1
+    3301788: Tube03 2
+    3301790: Tube04
+    3301792: Tube04 1
+    3301794: Tube04 2
+    3301796: Tube05
+    3301798: Tube05 1
+    3301800: Tube05 2
+    3301802: Tube06
+    3301804: Tube06 1
+    3301806: Tube06 2
+    3301808: Tube07
+    3301810: Tube07 1
+    3301812: Tube07 2
+    3301814: Tube08
+    3301816: Tube08 1
+    3301818: Tube08 2
+    3301820: Tube09
+    3301822: Tube09 1
+    3301824: Tube09 2
+    3301826: Tube10
+    3301828: Tube10 1
+    3301830: Tube11
+    3301832: Tube11 1
+    3301834: Tube12
+    3301836: Tube12 1
+    3301838: Tube13
+    3301840: Tube13 1
+    3301842: Tube14
+    3301844: Tube14 1
+    3301846: Tube15 1
+    3301848: Tube16
+    3301850: Tube16 1
+    3301852: Tube17
+    3301854: Tube18
+    3301856: Tube19
+    3301858: Tube20
+    3301860: Tube21
+    3301862: Tube22
+    3301864: Tube23
+    3301866: Tube24
+    3301868: Tube25
+    3301870: Tube26
+    3301872: Tube27
+    3301874: Tube28
+    3301876: Tube29
+    3301878: Tube30
+    3301880: Tube31
+    3301882: Tube32
+    3301884: Tube33
+    3301886: Tube34
+    3301888: Tube35
+    3301890: Tube36
+    4300000: main pcb
+    4300002: cap
+    4300004: ChamferCyl01
+    4300006: Cylinder01
+    4300008: ChamferCyl02
+    4300010: cap01
+    4300012: Cylinder02
+    4300014: Torus01
+    4300016: Cylinder01
+    4300018: Torus02
+    4300020: Cylinder03
+    4300022: Cylinder04
+    4300024: Torus03
+    4300026: Cylinder05
+    4300028: Torus04
+    4300030: Box03
+    4300032: Box04
+    4300034: Box02
+    4300036: Box01
+    4300038: Box16
+    4300040: Box17
+    4300042: Box18
+    4300044: Box19
+    4300046: Box07
+    4300048: Box05
+    4300050: Box06
+    4300052: Box01
+    4300054: Box20
+    4300056: Box21
+    4300058: Box22
+    4300060: Box23
+    4300062: Box24
+    4300064: Box25
+    4300066: Box26
+    4300068: Box27
+    4300070: Box28
+    4300072: Box29
+    4300074: Box30
+    4300076: Box31
+    4300078: Box32
+    4300080: Box33
+    4300082: Box34
+    4300084: Box35
+    4300086: Box01
+    4300088: Box02
+    4300090: ChamferBox01
+    4300092: Box36
+    4300094: Box37
+    4300096: ChamferBox02
+    4300098: kaki lengkung
+    4300100: Cylinder01
+    4300102: Box01
+    4300104: Box02
+    4300106: Box03
+    4300108: Box04
+    4300110: Cylinder01
+    4300112: Cylinder02
+    4300114: OilTank01
+    4300116: Cylinder08
+    4300118: kaki lengkung01
+    4300120: Object01
+    4300122: Torus01
+    4300124: Cylinder01
+    4300126: OilTank01
+    4300128: OilTank02
+    4300130: filamen
+    4300132: kaca
+    4300134: Torus05
+    4300136: Object02
+    4300138: Cylinder09
+    4300140: Box02
+    4300142: Box13
+    4300144: Box14
+    4300146: Box23
+    4300148: Box24
+    4300150: Box01
+    4300152: Box01
+    4300154: Cylinder09
+    4300156: Box02
+    4300158: Cylinder08
+    4300160: Cylinder05
+    4300162: Cylinder06
+    4300164: Cylinder07
+    4300166: Cylinder11
+    4300168: Cylinder10
+    4300170: ChamferBox01
+    4300172: Box03
+    4300174: ChamferBox01
+    4300176: Cylinder06
+    4300178: Cylinder08
+    4300180: Cylinder10
+    4300182: Cylinder11
+    4300184: Box04
+    4300186: Box02
+    4300188: Box01
+    4300190: Box38
+    4300192: ChamferBox03
+    4300194: Cylinder12
+    4300196: Cylinder13
+    4300198: Cylinder14
+    4300200: Cylinder15
+    4300202: Box39
+    4300204: Box40
+    4300206: Box01
+    4300208: Box02
+    4300210: Box05
+    4300212: Box06
+    4300214: Box07
+    4300216: Box08
+    4300218: Box09
+    4300220: Box10
+    4300222: Box11
+    4300224: Box12
+    4300226: Box13
+    4300228: Box14
+    4300230: Box15
+    4300232: Box16
+    4300234: Box17
+    4300236: Box18
+    4300238: Box19
+    4300240: Box20
+    4300242: Box21
+    4300244: Box22
+    4300246: Box23
+    4300248: Box24
+    4300250: Plane01
+    4300252: cap
+    4300254: Cylinder01
+    4300256: ChamferCyl01
+    4300258: cap02
+    4300260: Cylinder16
+    4300262: ChamferCyl03
+    4300264: Object01
+    4300266: Torus01
+    4300268: Cylinder01
+    4300270: Cylinder18
+    4300272: Object04
+    4300274: Torus07
+    4300276: Cylinder19
+    4300278: Object05
+    4300280: Torus08
+    4300282: Box41
+    4300284: Box42
+    4300286: Box43
+    4300288: Box44
+    4300290: Cylinder20
+    4300292: Object06
+    4300294: Torus09
+    4300296: Cylinder21
+    4300298: Torus10
+    4300300: Cylinder22
+    4300302: Object07
+    4300304: Torus11
+    4300306: Cylinder23
+    4300308: Object08
+    4300310: Torus12
+    4300312: Cylinder24
+    4300314: Object09
+    4300316: Torus13
+    4300318: Object01
+    4300320: Torus01
+    4300322: Cylinder01
+    4300324: Torus14
+    4300326: Object10
+    4300328: Cylinder25
+    4300330: Torus15
+    4300332: Object11
+    4300334: Cylinder26
+    4300336: OilTank04
+    4300338: Cylinder27
+    4300340: Cylinder28
+    4300342: Cylinder29
+    4300344: Torus16
+    4300346: Object12
+    4300348: Cylinder30
+    4300350: Torus17
+    4300352: Object13
+    4300354: Cylinder09
+    4300356: body
+    4300358: Object01
+    4300360: Torus01
+    4300362: Cylinder04
+    4300364: Cylinder31
+    4300366: body01
+    4300368: Object14
+    4300370: Torus18
+    4300372: Cylinder32
+    4300374: Cylinder33
+    4300376: Torus19
+    4300378: Object15
+    4300380: Cylinder34
+    4300382: Torus20
+    4300384: Object16
+    4300386: Cylinder35
+    4300388: Torus21
+    4300390: Object17
+    4300392: crazy jumper
+    4300394: crazy jumper01
+    4300396: crazy jumper02
+    4300398: crazy jumper03
+    4300400: crazy jumper04
+    4300402: crazy jumper05
+    4300404: body02
+    4300406: Cylinder36
+    4300408: Object18
+    4300410: Torus22
+    4300412: Cylinder37
+    4300414: Cylinder38
+    4300416: Torus23
+    4300418: Object19
+    4300420: Cylinder39
+    4300422: Torus24
+    4300424: Object20
+    4300426: crazy jumper06
+    4300428: Cylinder40
+    4300430: Torus25
+    4300432: Object21
+    4300434: Object01
+    4300436: Torus01
+    4300438: Cylinder01
+    4300440: Cylinder42
+    4300442: Object23
+    4300444: Torus27
+    4300446: Cylinder43
+    4300448: Torus28
+    4300450: Object24
+    4300452: Cylinder44
+    4300454: Torus29
+    4300456: Object25
+    4300458: OilTank05
+    4300460: Cylinder45
+    4300462: Cylinder46
+    4300464: crazy jumper07
+    4300466: Torus05
+    4300468: Torus04
+    4300470: Torus03
+    4300472: Torus08
+    4300474: Box01
+    4300476: ChamferBox01
+    4300478: ChamferBox02
+    4300480: Tube01
+    4300482: Cylinder01
+    4300484: Spring01
+    4300486: Cylinder47
+    4300488: Object26
+    4300490: Torus30
+    4300492: body03
+    4300494: Cylinder48
+    4300496: Object27
+    4300498: Torus31
+    4300500: Cylinder49
+    4300502: Cylinder50
+    4300504: Object28
+    4300506: Torus32
+    4300508: Cylinder51
+    4300510: Object29
+    4300512: Torus33
+    4300514: Cylinder52
+    4300516: Object30
+    4300518: Torus34
+    4300520: cap
+    4300522: Cylinder01
+    4300524: ChamferCyl01
+    4300526: OilTank06
+    4300528: Cylinder53
+    4300530: Cylinder54
+    4300532: OilTank07
+    4300534: Cylinder55
+    4300536: Cylinder56
+    4300538: OilTank08
+    4300540: Cylinder57
+    4300542: Cylinder58
+    4300544: Cylinder59
+    4300546: Torus35
+    4300548: Object31
+    4300550: Cylinder60
+    4300552: Torus36
+    4300554: Object32
+    4300556: ChamferCyl04
+    4300558: cap03
+    4300560: Cylinder61
+    4300562: ChamferCyl05
+    4300564: cap04
+    4300566: Cylinder62
+    4300568: body04
+    4300570: Cylinder63
+    4300572: Object33
+    4300574: Torus37
+    4300576: Cylinder64
+    4300578: Cylinder65
+    4300580: Torus38
+    4300582: Object34
+    4300584: crazy jumper08
+    4300586: body05
+    4300588: Cylinder66
+    4300590: Object35
+    4300592: Torus39
+    4300594: Cylinder67
+    4300596: Cylinder68
+    4300598: Torus40
+    4300600: Object36
+    4300602: Cylinder69
+    4300604: Object37
+    4300606: Torus41
+    4300608: Cylinder70
+    4300610: Torus42
+    4300612: Object38
+    4300614: Box45
+    4300616: Box46
+    4300618: Box47
+    4300620: Box48
+    4300622: Box49
+    4300624: Box50
+    4300626: Box51
+    4300628: Box52
+    4300630: ChamferCyl06
+    4300632: cap05
+    4300634: Cylinder71
+    4300636: crazy jumper09
+    4300638: body06
+    4300640: Cylinder72
+    4300642: Object39
+    4300644: Torus43
+    4300646: Cylinder73
+    4300648: Cylinder74
+    4300650: Torus44
+    4300652: Object40
+    4300654: Object41
+    4300656: body07
+    4300658: Cylinder75
+    4300660: Torus45
+    4300662: Cylinder76
+    4300664: kumparan from mb
+    4300666: Cylinder77
+    4300668: Object42
+    4300670: Torus46
+    4300672: OilTank09
+    4300674: Cylinder78
+    4300676: Cylinder79
+    4300678: Cylinder80
+    4300680: Object43
+    4300682: Torus47
+    4300684: Cylinder81
+    4300686: Object44
+    4300688: Torus48
+    4300690: OilTank01
+    4300692: Cylinder02
+    4300694: Cylinder01
+    4300696: OilTank10
+    4300698: Cylinder82
+    4300700: Cylinder83
+    4300702: OilTank11
+    4300704: Cylinder84
+    4300706: Cylinder85
+    4300708: ChamferCyl07
+    4300710: cap06
+    4300712: Cylinder86
+    4300714: crazy jumper10
+    4300716: Cylinder87
+    4300718: Object45
+    4300720: Torus49
+    4300722: OilTank12
+    4300724: Cylinder88
+    4300726: Cylinder89
+    4300728: crazy jumper11
+    4300730: Cylinder90
+    4300732: Torus50
+    4300734: Object46
+    4300736: c-ac kuning no food
+    4300738: crazy jumper12
+    4300740: crazy jumper13
+    4300742: OilTank13
+    4300744: Cylinder91
+    4300746: Cylinder92
+    4300748: OilTank14
+    4300750: Cylinder93
+    4300752: Cylinder94
+    4300754: Torus02
+    4300756: Torus03
+    4300758: Torus04
+    4300760: Torus01
+    4300762: Torus08
+    4300764: Torus07
+    4300766: Torus06
+    4300768: Torus05
+    4300770: ChamferBox01
+    4300772: Tube01
+    4300774: Cylinder95
+    4300776: Torus51
+    4300778: Object47
+    4300780: Cylinder96
+    4300782: Object48
+    4300784: Torus52
+    4300786: Cylinder97
+    4300788: Object49
+    4300790: Torus53
+    4300792: Cylinder98
+    4300794: Object50
+    4300796: Torus54
+    4300798: Cylinder99
+    4300800: Object51
+    4300802: Torus55
+    4300804: OilTank15
+    4300806: Cylinder100
+    4300808: Cylinder101
+    4300810: Cylinder102
+    4300812: Torus56
+    4300814: Object52
+    4300816: Cylinder103
+    4300818: Torus57
+    4300820: Object53
+    4300822: Cylinder104
+    4300824: Torus58
+    4300826: Object54
+    4300828: Cylinder105
+    4300830: Torus59
+    4300832: Object55
+    4300834: ChamferBox04
+    4300836: ChamferBox05
+    4300838: Cylinder106
+    4300840: Object56
+    4300842: Torus60
+    4300844: Cylinder107
+    4300846: Object57
+    4300848: Torus61
+    4300850: Cylinder108
+    4300852: Object58
+    4300854: Torus62
+    4300856: crazy jumper14
+    4300858: crazy jumper15
+    4300860: Cylinder109
+    4300862: Object59
+    4300864: Torus63
+    4300866: Cylinder110
+    4300868: Object60
+    4300870: Torus64
+    4300872: Cylinder111
+    4300874: Object61
+    4300876: Torus65
+    4300878: crazy jumper16
+    4300880: Cylinder112
+    4300882: Torus66
+    4300884: Object62
+    4300886: Cylinder113
+    4300888: Torus67
+    4300890: Object63
+    4300892: crazy jumper17
+    4300894: crazy jumper18
+    4300896: cap07
+    4300898: ChamferCyl08
+    4300900: Cylinder114
+    4300902: cap08
+    4300904: ChamferCyl09
+    4300906: Cylinder115
+    4300908: cap09
+    4300910: ChamferCyl10
+    4300912: Cylinder116
+    4300914: Torus26
+    4300916: ChamferBox06
+    4300918: Torus68
+    4300920: Torus69
+    4300922: Torus70
+    4300924: Torus71
+    4300926: Torus72
+    4300928: Torus73
+    4300930: Torus74
+    4300932: Torus75
+    4300934: Tube02
+    4300936: Cylinder117
+    4300938: Object64
+    4300940: Torus76
+    4300942: OilTank16
+    4300944: Cylinder118
+    4300946: Cylinder119
+    4300948: Object65
+    4300950: Cylinder120
+    4300952: Torus77
+    4300954: crazy jumper20
+    4300956: OilTank17
+    4300958: Cylinder121
+    4300960: Cylinder122
+    4300962: Cylinder123
+    4300964: Object66
+    4300966: Torus78
+    4300968: Cylinder124
+    4300970: Object67
+    4300972: Torus79
+    4300974: Box53
+    4300976: Box54
+    4300978: Box55
+    4300980: Box56
+    4300982: Cylinder125
+    4300984: Object68
+    4300986: Torus80
+    4300988: Cylinder126
+    4300990: Object69
+    4300992: Torus81
+    4300994: ChamferCyl11
+    4300996: cap10
+    4300998: Cylinder127
+    4301000: Cylinder128
+    4301002: Object70
+    4301004: Torus82
+    4301006: cap11
+    4301008: Cylinder129
+    4301010: ChamferCyl12
+    4301012: cap12
+    4301014: Cylinder130
+    4301016: ChamferCyl13
+    4301018: Cylinder131
+    4301020: Spring02
+    4301022: Cylinder132
+    4301024: Spring03
+    4301026: Object71
+    4301028: Cylinder133
+    4301030: Torus83
+    4301032: Object72
+    4301034: Cylinder134
+    4301036: Torus84
+    4301038: Box57
+    4301040: Box58
+    4301042: Box59
+    4301044: Box60
+    4301046: crazy jumper21
+    4301048: ChamferCyl14
+    4301050: cap13
+    4301052: Cylinder135
+    4301054: ChamferCyl15
+    4301056: cap14
+    4301058: Cylinder136
+    4301060: ChamferCyl16
+    4301062: cap15
+    4301064: Cylinder137
+    4301066: ChamferCyl17
+    4301068: cap16
+    4301070: Cylinder138
+    4301072: ChamferCyl18
+    4301074: cap17
+    4301076: Cylinder139
+    4301078: Cylinder140
+    4301080: kaki lengkung02
+    4301082: Cylinder141
+    4301084: kaki lengkung03
+    4301086: Cylinder142
+    4301088: kaki lengkung04
+    4301090: Cylinder01
+    4301092: Cylinder02
+    4301094: L-Ext01
+    4301096: L-Ext02
+    4301098: heatsink 1
+    4301100: heatsink 2
+    4301102: L-Ext03
+    4301104: L-Ext04
+    4301106: Cylinder01
+    4301108: Cylinder03
+    4301110: Cylinder02
+    4301112: ChamferCyl01
+    4301114: Cylinder143
+    4301116: Cylinder144
+    4301118: Cylinder145
+    4301120: ChamferCyl19
+    4301122: Cylinder146
+    4301124: Cylinder147
+    4301126: Cylinder148
+    4301128: ChamferCyl20
+    4301130: ChamferCyl21
+    4301132: Cylinder149
+    4301134: Cylinder150
+    4301136: Cylinder151
+    4301138: ChamferCyl22
+    4301140: Cylinder152
+    4301142: Cylinder153
+    4301144: Cylinder154
+    4301146: ChamferCyl23
+    4301148: Cylinder155
+    4301150: Cylinder156
+    4301152: Cylinder157
+    4301154: isolator
+    4301156: isolator01
+    4301158: isolator02
+    4301160: isolator03
+    4301162: isolator04
+    4301164: isolator05
+    4301166: isolator06
+    4301168: Cylinder158
+    4301170: Object73
+    4301172: Torus85
+    4301174: Cylinder159
+    4301176: Object74
+    4301178: Torus86
+    4301180: Box01
+    4301182: Box03
+    4301184: Box65
+    4301186: Tube14
+    4301188: Tube11
+    4301190: Tube13
+    4301192: Tube12
+    4301194: Tube16
+    4301196: back plate
+    4301198: Box67
+    4301200: Box68
+    4301202: Box69
+    4301204: Box70
+    4301206: Box71
+    4301208: Box72
+    4301210: Box73
+    4301212: Box74
+    4301214: Box75
+    4301216: box atas
+    4301218: bolongan back
+    4301220: case
+    4301222: Tube03
+    4301224: Tube04
+    4301226: Tube05
+    4301228: ring
+    4301230: seal
+    4301232: kipasnya
+    4301234: magnet
+    4301236: besi
+    4301238: Tube02
+    4301240: Tube01
+    4301242: as
+    4301244: Cylinder01
+    4301246: Cylinder02
+    4301248: besi kern
+    4301250: body C
+    4301252: cap
+    4301254: ChamferCyl01
+    4301256: Tube09
+    4301258: Tube08
+    4301260: Tube07
+    4301262: Tube06
+    4301264: pcb
+    4301266: plastik isolasi
+    4301268: Cylinder01
+    4301270: Cylinder05
+    4301272: Cylinder06
+    4301274: Cylinder13
+    4301276: Cylinder14
+    4301278: Cylinder15
+    4301280: r body02
+    4301282: Cylinder05
+    4301284: Cylinder06
+    4301286: r body03
+    4301288: Cylinder16
+    4301290: Cylinder17
+    4301292: r body04
+    4301294: Cylinder18
+    4301296: Cylinder19
+    4301298: Box01
+    4301300: Box06
+    4301302: Box07
+    4301304: Box05
+    4301306: Box08
+    4301308: Box09
+    4301310: Box10
+    4301312: Box11
+    4301314: Circle01
+    4301316: Box03
+    4301318: Box04
+    4301320: Box05
+    4301322: Box01
+    4301324: Text01
+    4301326: Text02
+    4301328: Box02
+    4301330: ChamferCyl25
+    4301332: ChamferCyl26
+    4301334: Plane02
+    4301336: Box76
+    4301338: Box77
+    4301340: c-ac kuning no food01
+    4301342: ChamferBox07
+    4301344: Torus89
+    4301346: Torus90
+    4301348: Torus91
+    4301350: Torus92
+    4301352: Box78
+    4301354: ChamferBox08
+    4301356: Tube10
+    4301358: OilTank19
+    4301360: Cylinder164
+    4301362: Cylinder165
+    4301364: OilTank18
+    4301366: Cylinder162
+    4301368: Cylinder163
+    4301370: pcb 1
+    4301372: Torus93
+    4301374: Torus94
+    4301376: Torus95
+    4301378: Torus96
+    4301380: Loft01
+    4301382: Torus100
+    4301384: Torus97
+    4301386: Torus98
+    4301388: Torus99
+    4301390: Loft02
+    4301392: ChamferCyl28
+    4301394: ChamferCyl27
+    4301396: ChamferCyl29
+    4301398: ChamferCyl30
+    4301400: aekreup main03
+    4301402: aekreup main02
+    4301404: aekreup main01
+    4301406: aekreup main
+    4301408: aekreup main04
+    4301410: kabel ac ground
+    4301412: kabel ac ground 1
+    4301414: kabel ac in 1
+    4301416: kabel ac in 2
+    4301418: ChamferCyl31
+    4301420: cap18
+    4301422: Cylinder166
+    4301424: Box79
+    4301426: Box80
+    4301428: ChamferBox09
+    4301430: ChamferBox10
+    4301432: kabel 3v3-1
+    4301434: kabel 3v3-2
+    4301436: kabel 3v3-3
+    4301438: kabel 3v3-4
+    4301440: kabel 3v3-5
+    4301442: kabel 12V-1
+    4301444: kabel 12V-2
+    4301446: kabel 12V-3
+    4301448: kabel 12V-4
+    4301450: kabel 12V-5
+    4301452: kabel 12V-6
+    4301454: cap19
+    4301456: ChamferCyl32
+    4301458: Cylinder167
+    4301460: Loft03
+    4301462: Loft04
+    4301464: Loft05
+    4301466: Loft06
+    4301468: Loft07
+    4301470: Loft08
+    4301472: Loft09
+    4301474: Loft10
+    4301476: Loft11
+    4301478: Loft12
+    4301480: Loft13
+    4301482: Loft14
+    4301484: Loft15
+    4301486: Loft16
+    4301488: Loft17
+    4301490: Cylinder41
+    4301492: Cylinder160
+    4301494: Cylinder161
+    4301496: Cylinder168
+    4301498: Loft18
+    4301500: Loft19
+    4301502: Loft20
+    4301504: Loft21
+    4301506: kabel -12V
+    4301508: Loft22
+    4301510: Loft23
+    4301512: Loft24
+    4301514: Loft25
+    4301516: Loft26
+    4301518: Cylinder169
+    4301520: Loft27
+    4301522: jack-b
+    4301524: kabel fan +
+    4301526: kabel fan -
+    4301528: Loft43
+    4301530: Cylinder170
+    4301532: Box61
+    4301534: Cylinder171
+    4301536: Loft49
+    4301538: Loft50
+    4301540: Loft51
+    4301542: Loft57
+    4301544: Box62
+    4301546: Cylinder172
+    4301548: Cylinder173
+    4301550: Loft68
+    4301552: Box63
+    4301554: Cylinder174
+    4301556: Cylinder175
+    4301558: Loft77
+    4301560: Loft78
+    4301562: Tube01
+    4301564: Tube02
+    4301566: Tube03
+    4301568: Tube04
+    4301570: Tube05
+    4301572: Tube06
+    4301574: Tube07
+    4301576: Tube08
+    4301578: Tube09
+    4301580: Tube10
+    4301582: Tube11
+    4301584: Tube12
+    4301586: Tube13
+    4301588: Tube14
+    4301590: Tube15
+    4301592: Tube16
+    4301594: Tube17
+    4301596: Tube18
+    4301598: Tube19
+    4301600: Tube20
+    4301602: Tube21
+    4301604: Tube22
+    4301606: Tube23
+    4301608: Tube24
+    4301610: Tube25
+    4301612: Tube26
+    4301614: Tube27
+    4301616: Tube28
+    4301618: Tube29
+    4301620: Tube30
+    4301622: Tube31
+    4301624: Tube32
+    4301626: Tube33
+    4301628: Tube34
+    4301630: Tube35
+    4301632: Tube36
+    4301634: Loft79
+    4301636: ChamferCyl24
+    4301638: Box06
+    4301640: Cylinder10
+    4301642: Cylinder05
+    4301644: Box03
+    4301646: Box04
+    4301648: Cylinder07
+    4301650: Cylinder04
+    4301652: -12V
+    4301654: gnd more
+    4301656: gnd more2
+    4301658: Loft29
+    4301660: Loft30
+    4301662: main plug02
+    4301664: main plug
+    4301666: Cylinder02
+    4301668: Loft53
+    4301670: Loft42
+    4301672: Loft72
+    4301674: Loft08
+    4301676: Loft06
+    4301678: Loft75
+    4301680: Loft76
+    4301682: Loft48
+    4301684: Loft47
+    4301686: Loft62
+    4301688: Loft66
+    4301690: Loft28
+    4301692: Loft27
+    4301694: Loft56
+    4301696: Loft39
+    4301698: Loft71
+    4301700: Loft75
+    4301702: Loft74
+    4301704: Loft16
+    4301706: Loft15
+    4301708: Loft17
+    4301710: Loft34
+    4301712: Loft32
+    4301714: Loft59
+    4301716: Loft63
+    4301718: Loft45
+    4301720: Loft44
+    4301722: Loft55
+    4301724: Loft41
+    4301726: Loft65
+    4301728: Loft61
+    4301730: Loft46
+    4301732: Loft47
+    4301734: Loft25
+    4301736: Loft37
+    4301738: Loft35
+    4301740: Loft26
+    4301742: -5V
+    4301744: Loft22
+    4301746: Loft54
+    4301748: Loft52
+    4301750: Loft40
+    4301752: Loft38
+    4301754: Loft70
+    4301756: Loft69
+    4301758: Loft74
+    4301760: Loft73
+    4301762: Loft73
+    4301764: Loft76
+    4301766: Loft09
+    4301768: Loft07
+    4301770: Loft46
+    4301772: Loft45
+    4301774: Loft44
+    4301776: Loft48
+    4301778: Loft58
+    4301780: Loft60
+    4301782: Loft67
+    4301784: Loft64
+    4301786: Loft14
+    4301788: Loft19
+    4301790: Loft20
+    4301792: Loft36
+    4301794: Loft33
+    4301796: Loft31
+    4301798: case
+    4301800: Tube03
+    4301802: Tube04
+    4301804: Tube05
+    4301806: ring
+    4301808: seal
+    4301810: kipasnya
+    4301812: magnet
+    4301814: besi
+    4301816: Tube02
+    4301818: Tube01
+    4301820: as
+    4301822: Cylinder01
+    4301824: Cylinder02
+    4301826: besi kern
+    4301828: body C
+    4301830: cap
+    4301832: ChamferCyl01
+    4301834: Tube09
+    4301836: Tube08
+    4301838: Tube07
+    4301840: Tube06
+    4301842: pcb
+    4301844: plastik isolasi
+    4301846: Cylinder01
+    4301848: Cylinder05
+    4301850: Cylinder06
+    4301852: Cylinder13
+    4301854: Cylinder14
+    4301856: Cylinder15
+    4301858: r body02
+    4301860: Cylinder05
+    4301862: Cylinder06
+    4301864: r body03
+    4301866: Cylinder16
+    4301868: Cylinder17
+    4301870: r body04
+    4301872: Cylinder18
+    4301874: Cylinder19
+    4301876: Box01
+    4301878: Box06
+    4301880: Box07
+    4301882: Box05
+    4301884: Box08
+    4301886: Box09
+    4301888: Box10
+    4301890: Box11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
